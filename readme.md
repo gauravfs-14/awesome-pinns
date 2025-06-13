@@ -2,10 +2,10 @@
 
 ![Awesome](https://awesome.re/badge.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-![GitHub Contributors](https://img.shields.io/github/contributors/gauravfs-14/awesome-piml.svg)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/gauravfs-14/awesome-piml.svg)
-[![GitHub Stars](https://img.shields.io/github/stars/gauravfs-14/awesome-piml.svg?style=social)](https://github.com/gauravfs-14/awesome-piml)
-![GitHub Forks](https://img.shields.io/github/forks/gauravfs-14/awesome-piml.svg)
+![GitHub Contributors](https://img.shields.io/github/contributors/gauravfs-14/awesome-pinns.svg)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/gauravfs-14/awesome-pinns.svg)
+[![GitHub Stars](https://img.shields.io/github/stars/gauravfs-14/awesome-pinns.svg?style=social)](https://github.com/gauravfs-14/awesome-pinns)
+![GitHub Forks](https://img.shields.io/github/forks/gauravfs-14/awesome-pinns.svg)
 
 A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs). This repository is designed to be a comprehensive, well-organized knowledge base for researchers and developers working in the growing field of integrating physics with machine learning.
 
@@ -105,4 +105,4 @@ This repository is licensed under the [Creative Commons Attribution 4.0 Internat
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesome-piml)](https://star-history.com/#gauravfs-14/awesome-piml&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=gauravfs-14/awesome-pinns)](https://star-history.com/#gauravfs-14/awesome-pinns&Date)
