@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 15, 2025 at 01:39:22 AM UTC
+June 16, 2025 at 01:25:34 AM UTC
 
 
 ## Theorem
 
-## Papers (50)
+## Papers (53)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -70,6 +70,9 @@ June 15, 2025 at 01:39:22 AM UTC
 - [Machine learning on manifolds for inverse scattering: Lipschitz stability analysis](https://arxiv.org/abs/2502.07093)
 - [Fourier-Invertible Neural Encoder (FINE) for Homogeneous Flows](https://arxiv.org/abs/2505.15329)
 - [Hybrid Adaptive Modeling in Process Monitoring: Leveraging Sequence Encoders and Physics-Informed Neural Networks](https://arxiv.org/abs/2505.14252)
+- [Modelling Mosquito Population Dynamics using PINN-derived Empirical Parameters](https://arxiv.org/abs/2412.07514)
+- [Physics-Informed Latent Neural Operator for Real-time Predictions of Complex Physical Systems](https://arxiv.org/abs/2501.08428)
+- [Safe Physics-Informed Machine Learning for Dynamics and Control](https://arxiv.org/abs/2504.12952)
 
 
 ## Library
