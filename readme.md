@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 16, 2025 at 01:25:34 AM UTC
+June 17, 2025 at 01:23:36 AM UTC
 
 
 ## Theorem
 
-## Papers (53)
+## Papers (58)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -73,6 +73,11 @@ June 16, 2025 at 01:25:34 AM UTC
 - [Modelling Mosquito Population Dynamics using PINN-derived Empirical Parameters](https://arxiv.org/abs/2412.07514)
 - [Physics-Informed Latent Neural Operator for Real-time Predictions of Complex Physical Systems](https://arxiv.org/abs/2501.08428)
 - [Safe Physics-Informed Machine Learning for Dynamics and Control](https://arxiv.org/abs/2504.12952)
+- [PINNs Algorithmic Framework for Simulation of Nonlinear Burgers' Type Models](https://arxiv.org/abs/2506.12922)
+- [Enhancing Physics-Informed Neural Networks Through Feature Engineering](https://arxiv.org/abs/2502.07209)
+- [Which Optimizer Works Best for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks?](https://arxiv.org/abs/2501.16371)
+- [Learning Mappings in Mesh-based Simulations](https://arxiv.org/abs/2506.12652)
+- [Physics-Informed Priors with Application to Boundary Layer Velocity](https://arxiv.org/abs/2311.12978)
 
 
 ## Library
