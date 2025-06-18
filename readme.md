@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 17, 2025 at 01:23:36 AM UTC
+June 18, 2025 at 01:22:38 AM UTC
 
 
 ## Theorem
 
-## Papers (58)
+## Papers (64)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -78,6 +78,12 @@ June 17, 2025 at 01:23:36 AM UTC
 - [Which Optimizer Works Best for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks?](https://arxiv.org/abs/2501.16371)
 - [Learning Mappings in Mesh-based Simulations](https://arxiv.org/abs/2506.12652)
 - [Physics-Informed Priors with Application to Boundary Layer Velocity](https://arxiv.org/abs/2311.12978)
+- [A Hybrid Neural Network -- Polynomial Series Scheme for Learning Invariant Manifolds of Discrete Dynamical Systems](https://arxiv.org/abs/2506.13950)
+- [A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction](https://arxiv.org/abs/2506.13678)
+- [Leveraging recurrence in neural network wavefunctions for large-scale simulations of Heisenberg antiferromagnets: the square lattice](https://arxiv.org/abs/2502.17144)
+- [Stability Analysis of Physics-Informed Neural Networks via Variational Coercivity, Perturbation Bounds, and Concentration Estimates](https://arxiv.org/abs/2506.13554)
+- [NeuroPhysNet: A FitzHugh-Nagumo-Based Physics-Informed Neural Network Framework for Electroencephalograph (EEG) Analysis and Motor Imagery Classification](https://arxiv.org/abs/2506.13222)
+- [Quantum Recurrent Embedding Neural Network](https://arxiv.org/abs/2506.13185)
 
 
 ## Library
