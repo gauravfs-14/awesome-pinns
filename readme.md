@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 23, 2025 at 01:27:55 AM UTC
+June 24, 2025 at 01:23:47 AM UTC
 
 
 ## Theorem
 
-## Papers (68)
+## Papers (76)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -88,6 +88,14 @@ June 23, 2025 at 01:27:55 AM UTC
 - [Solving Nonlinear PDEs with Sparse Radial Basis Function Networks](https://arxiv.org/abs/2505.07765)
 - [Leveraging Influence Functions for Resampling Data in Physics-Informed Neural Networks](https://arxiv.org/abs/2506.16443)
 - [SPIN-ODE: Stiff Physics-Informed Neural ODE for Chemical Reaction Rate Estimation](https://arxiv.org/abs/2505.05625)
+- [GeNeRT: A Physics-Informed Approach to Intelligent Wireless Channel Modeling via Generalizable Neural Ray Tracing](https://arxiv.org/abs/2506.18295)
+- [Evolutionary Optimization of Physics-Informed Neural Networks: Evo-PINN Frontiers and Opportunities](https://arxiv.org/abs/2501.06572)
+- [Exploring Efficient Quantification of Modeling Uncertainties with Differentiable Physics-Informed Machine Learning Architectures](https://arxiv.org/abs/2506.18247)
+- [Supercharging Graph Transformers with Advective Diffusion](https://arxiv.org/abs/2310.06417)
+- [Newtonian and Lagrangian Neural Networks: A Comparison Towards Efficient Inverse Dynamics Identification](https://arxiv.org/abs/2506.17994)
+- [Rank Inspired Neural Network for solving linear partial differential equations](https://arxiv.org/abs/2506.17654)
+- [Mask-PINNs: Regulating Feature Distributions in Physics-Informed Neural Networks](https://arxiv.org/abs/2505.06331)
+- [Solving a class of stochastic optimal control problems by physics-informed neural networks](https://arxiv.org/abs/2402.15592)
 
 
 ## Library
