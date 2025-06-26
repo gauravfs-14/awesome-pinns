@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 25, 2025 at 01:24:12 AM UTC
+June 26, 2025 at 01:23:30 AM UTC
 
 
 ## Theorem
 
-## Papers (78)
+## Papers (82)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -98,6 +98,10 @@ June 25, 2025 at 01:24:12 AM UTC
 - [Solving a class of stochastic optimal control problems by physics-informed neural networks](https://arxiv.org/abs/2402.15592)
 - [High precision PINNs in unbounded domains: application to singularity formulation in PDEs](https://arxiv.org/abs/2506.19243)
 - [Learning Physical Systems: Symplectification via Gauge Fixing in Dirac Structures](https://arxiv.org/abs/2506.18812)
+- [Méthode de quadrature pour les PINNs fondée théoriquement sur la hessienne des résiduels](https://arxiv.org/abs/2506.20441)
+- [A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers](https://arxiv.org/abs/2506.20341)
+- [Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks](https://arxiv.org/abs/2506.20181)
+- [Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective](https://arxiv.org/abs/2506.19805)
 
 
 ## Library
