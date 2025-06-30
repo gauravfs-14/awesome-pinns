@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 29, 2025 at 01:40:36 AM UTC
+June 30, 2025 at 01:28:10 AM UTC
 
 
 ## Theorem
 
-## Papers (82)
+## Papers (85)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -102,6 +102,9 @@ June 29, 2025 at 01:40:36 AM UTC
 - [A Neural-Operator Surrogate for Platelet Deformation Across Capillary Numbers](https://arxiv.org/abs/2506.20341)
 - [Causal Operator Discovery in Partial Differential Equations via Counterfactual Physics-Informed Neural Networks](https://arxiv.org/abs/2506.20181)
 - [Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective](https://arxiv.org/abs/2506.19805)
+- [Least Squares with Equality constraints Extreme Learning Machines for the resolution of PDEs](https://arxiv.org/abs/2503.19185)
+- [Physics-informed network paradigm with data generation and background noise removal for diverse distributed acoustic sensing applications](https://arxiv.org/abs/2506.21952)
+- [Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks](https://arxiv.org/abs/2503.23167)
 
 
 ## Library
