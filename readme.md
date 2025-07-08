@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 7, 2025 at 01:28:11 AM UTC
+July 8, 2025 at 01:24:20 AM UTC
 
 
 ## Theorem
 
-## Papers (91)
+## Papers (94)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -111,6 +111,9 @@ July 7, 2025 at 01:28:11 AM UTC
 - [B-PL-PINN: Stabilizing PINN Training with Bayesian Pseudo Labeling](https://arxiv.org/abs/2507.01714)
 - [A generative modeling / Physics-Informed Neural Network approach to random differential equations](https://arxiv.org/abs/2507.01687)
 - [Unraveling particle dark matter with Physics-Informed Neural Networks](https://arxiv.org/abs/2502.17597)
+- [Taylor-Model Physics-Informed Neural Networks (PINNs) for Ordinary Differential Equations](https://arxiv.org/abs/2507.03860)
+- [OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems](https://arxiv.org/abs/2507.03853)
+- [Modeling Membrane Degradation in PEM Electrolyzers with Physics-Informed Neural Networks](https://arxiv.org/abs/2507.02887)
 
 
 ## Library
