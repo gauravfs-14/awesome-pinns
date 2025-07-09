@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 8, 2025 at 01:24:20 AM UTC
+July 9, 2025 at 01:25:20 AM UTC
 
 
 ## Theorem
 
-## Papers (94)
+## Papers (101)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -114,6 +114,13 @@ July 8, 2025 at 01:24:20 AM UTC
 - [Taylor-Model Physics-Informed Neural Networks (PINNs) for Ordinary Differential Equations](https://arxiv.org/abs/2507.03860)
 - [OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems](https://arxiv.org/abs/2507.03853)
 - [Modeling Membrane Degradation in PEM Electrolyzers with Physics-Informed Neural Networks](https://arxiv.org/abs/2507.02887)
+- [Robust Power System State Estimation using Physics-Informed Neural Networks](https://arxiv.org/abs/2507.05874)
+- [Physics-Guided Dual Implicit Neural Representations for Source Separation](https://arxiv.org/abs/2507.05249)
+- [Physics Encoded Blocks in Residual Neural Network Architectures for Digital Twin Models](https://arxiv.org/abs/2411.11497)
+- [Investigating the diversity and stylization of contemporary user generated visual arts in the complexity entropy plane](https://arxiv.org/abs/2408.10356)
+- [Machine Learning in Acoustics: A Review and Open-Source Repository](https://arxiv.org/abs/2507.04419)
+- [Physics-informed neural networks and neural operators for a study of EUV electromagnetic wave diffraction from a lithography mask](https://arxiv.org/abs/2507.04153)
+- [Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity](https://arxiv.org/abs/2507.05291)
 
 
 ## Library
