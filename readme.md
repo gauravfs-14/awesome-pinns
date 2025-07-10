@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 9, 2025 at 01:25:20 AM UTC
+July 10, 2025 at 01:25:17 AM UTC
 
 
 ## Theorem
 
-## Papers (101)
+## Papers (104)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -121,6 +121,9 @@ July 9, 2025 at 01:25:20 AM UTC
 - [Machine Learning in Acoustics: A Review and Open-Source Repository](https://arxiv.org/abs/2507.04419)
 - [Physics-informed neural networks and neural operators for a study of EUV electromagnetic wave diffraction from a lithography mask](https://arxiv.org/abs/2507.04153)
 - [Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity](https://arxiv.org/abs/2507.05291)
+- [Noisy PDE Training Requires Bigger PINNs](https://arxiv.org/abs/2507.06967)
+- [Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study](https://arxiv.org/abs/2507.06694)
+- [Differentiable Stellar Atmospheres with Physics-Informed Neural Networks](https://arxiv.org/abs/2507.06357)
 
 
 ## Library
