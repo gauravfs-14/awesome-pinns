@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 13, 2025 at 01:42:57 AM UTC
+July 14, 2025 at 01:39:35 AM UTC
 
 
 ## Theorem
 
-## Papers (106)
+## Papers (110)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -126,6 +126,10 @@ July 13, 2025 at 01:42:57 AM UTC
 - [Differentiable Stellar Atmospheres with Physics-Informed Neural Networks](https://arxiv.org/abs/2507.06357)
 - [Towards Robust Surrogate Models: Benchmarking Machine Learning Approaches to Expediting Phase Field Simulations of Brittle Fracture](https://arxiv.org/abs/2507.07237)
 - [Understanding Malware Propagation Dynamics through Scientific Machine Learning](https://arxiv.org/abs/2507.07143)
+- [Hybrid machine learning based scale bridging framework for permeability prediction of fibrous structures](https://arxiv.org/abs/2502.05044)
+- [Physics-Informed Neural Networks with Hard Nonlinear Equality and Inequality Constraints](https://arxiv.org/abs/2507.08124)
+- [Quasi-Random Physics-informed Neural Networks](https://arxiv.org/abs/2507.08121)
+- [PDE-aware Optimizer for Physics-informed Neural Networks](https://arxiv.org/abs/2507.08118)
 
 
 ## Library
