@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 14, 2025 at 01:39:35 AM UTC
+July 15, 2025 at 01:39:34 AM UTC
 
 
 ## Theorem
 
-## Papers (110)
+## Papers (120)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -130,6 +130,16 @@ July 14, 2025 at 01:39:35 AM UTC
 - [Physics-Informed Neural Networks with Hard Nonlinear Equality and Inequality Constraints](https://arxiv.org/abs/2507.08124)
 - [Quasi-Random Physics-informed Neural Networks](https://arxiv.org/abs/2507.08121)
 - [PDE-aware Optimizer for Physics-informed Neural Networks](https://arxiv.org/abs/2507.08118)
+- [Physics-informed neural networks for high-dimensional solutions and snaking bifurcations in nonlinear lattices](https://arxiv.org/abs/2507.09782)
+- [Toward accurate RUL and SOH estimation using reinforced graph-based PINNs enhanced with dynamic weights](https://arxiv.org/abs/2507.09766)
+- [Energy Dissipation Rate Guided Adaptive Sampling for Physics-Informed Neural Networks: Resolving Surface-Bulk Dynamics in Allen-Cahn Systems](https://arxiv.org/abs/2507.09757)
+- [Universal Physics Simulation: A Foundational Diffusion Approach](https://arxiv.org/abs/2507.09733)
+- [Physics-informed machine learning surrogate for scalable simulation of thermal histories during wire-arc directed energy deposition](https://arxiv.org/abs/2507.09591)
+- [MVPinn: Integrating Milne-Eddington Inversion with Physics-Informed Neural Networks for GST/NIRIS Observations](https://arxiv.org/abs/2507.09430)
+- [WellPINN: Accurate Well Representation for Transient Fluid Pressure Diffusion in Subsurface Reservoirs with Physics-Informed Neural Networks](https://arxiv.org/abs/2507.09330)
+- [Simulating Three-dimensional Turbulence with Physics-informed Neural Networks](https://arxiv.org/abs/2507.08972)
+- [Physics-informed machine learning: A mathematical framework with applications to time series forecasting](https://arxiv.org/abs/2507.08906)
+- [Physical Informed Neural Networks for modeling ocean pollutant](https://arxiv.org/abs/2507.08834)
 
 
 ## Library
