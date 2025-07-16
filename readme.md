@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 15, 2025 at 01:39:34 AM UTC
+July 16, 2025 at 01:27:23 AM UTC
 
 
 ## Theorem
 
-## Papers (120)
+## Papers (126)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -140,6 +140,12 @@ July 15, 2025 at 01:39:34 AM UTC
 - [Simulating Three-dimensional Turbulence with Physics-informed Neural Networks](https://arxiv.org/abs/2507.08972)
 - [Physics-informed machine learning: A mathematical framework with applications to time series forecasting](https://arxiv.org/abs/2507.08906)
 - [Physical Informed Neural Networks for modeling ocean pollutant](https://arxiv.org/abs/2507.08834)
+- [Moderate Adaptive Linear Units (MoLU)](https://arxiv.org/abs/2302.13696)
+- [Physics-Informed Neural Networks For Semiconductor Film Deposition: A Review](https://arxiv.org/abs/2507.10983)
+- [Learning from Imperfect Data: Robust Inference of Dynamic Systems using Simulation-based Generative Model](https://arxiv.org/abs/2507.10884)
+- [Polaritonic Machine Learning for Graph-based Data Analysis](https://arxiv.org/abs/2507.10415)
+- [Kernel-Adaptive PI-ELMs for Forward and Inverse Problems in PDEs with Sharp Gradients](https://arxiv.org/abs/2507.10241)
+- [Compliance Minimization via Physics-Informed Gaussian Processes](https://arxiv.org/abs/2507.09968)
 
 
 ## Library
