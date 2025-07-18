@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 17, 2025 at 01:28:30 AM UTC
+July 18, 2025 at 01:27:57 AM UTC
 
 
 ## Theorem
 
-## Papers (129)
+## Papers (133)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -149,6 +149,10 @@ July 17, 2025 at 01:28:30 AM UTC
 - [Physics-Informed Linear Model (PILM): Analytical Representations and Application to Crustal Strain Rate Estimation](https://arxiv.org/abs/2507.12218)
 - [Low-latency Forecasts of Kilonova Light Curves for Rubin and ZTF](https://arxiv.org/abs/2507.11785)
 - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360)
+- [Adaptive feature capture method for solving partial differential equations with low regularity solutions](https://arxiv.org/abs/2507.12941)
+- [A Physics-Informed Data-Driven Discovery for Constitutive Modeling of Compressible, Nonlinear, History-Dependent Soft Materials under Multiaxial Cyclic Loading](https://arxiv.org/abs/2507.12683)
+- [Improving physics-informed neural network extrapolation via transfer learning and adaptive activation functions](https://arxiv.org/abs/2507.12659)
+- [Inverse Physics-informed neural networks procedure for detecting noise in open quantum systems](https://arxiv.org/abs/2507.12552)
 
 
 ## Library
