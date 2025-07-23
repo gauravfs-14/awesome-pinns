@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 22, 2025 at 01:28:29 AM UTC
+July 23, 2025 at 01:38:50 AM UTC
 
 
 ## Theorem
 
-## Papers (137)
+## Papers (143)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -157,6 +157,12 @@ July 22, 2025 at 01:28:29 AM UTC
 - [AI-Accelerated Flow Simulation: A Robust Auto-Regressive Framework for Long-Term CFD Forecasting](https://arxiv.org/abs/2412.05657)
 - [Integrating Newton's Laws with deep learning for enhanced physics-informed compound flood modelling](https://arxiv.org/abs/2507.15021)
 - [An explainable operator approximation framework under the guideline of Green's function](https://arxiv.org/abs/2412.16644)
+- [Data-Driven Adaptive Gradient Recovery for Unstructured Finite Volume Computations](https://arxiv.org/abs/2507.16571)
+- [Impact of Ethanol and Methanol on NOx Emissions in Ammonia-Methane Combustion: ReaxFF Simulations and ML-Based Extrapolation](https://arxiv.org/abs/2507.16568)
+- [Optimization and generalization analysis for two-layer physics-informed neural networks without over-parametrization](https://arxiv.org/abs/2507.16380)
+- [Enhancing Stability of Physics-Informed Neural Network Training Through Saddle-Point Reformulation](https://arxiv.org/abs/2507.16008)
+- [Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering](https://arxiv.org/abs/2507.15845)
+- [GeoHNNs: Geometric Hamiltonian Neural Networks](https://arxiv.org/abs/2507.15678)
 
 
 ## Library
