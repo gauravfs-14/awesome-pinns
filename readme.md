@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 27, 2025 at 01:45:05 AM UTC
+July 28, 2025 at 01:43:45 AM UTC
 
 
 ## Theorem
 
-## Papers (146)
+## Papers (149)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -166,6 +166,9 @@ July 27, 2025 at 01:45:05 AM UTC
 - [Adaptive feature capture method for solving partial differential equations with near singular solutions](https://arxiv.org/abs/2507.12941)
 - [LArTPC hit-based topology classification with quantum machine learning and symmetry](https://arxiv.org/abs/2503.12655)
 - [Inverse Design using Physics-Informed Quantum GANs for Tailored Absorption in Dielectric Metasurfaces](https://arxiv.org/abs/2507.18132)
+- [Integrating Physics and Topology in Neural Networks for Learning Rigid Body Dynamics](https://arxiv.org/abs/2411.11467)
+- [Learning Long-Range Representations with Equivariant Messages](https://arxiv.org/abs/2507.19382)
+- [Physics-Informed Graph Neural Networks for Transverse Momentum Estimation in CMS Trigger Systems](https://arxiv.org/abs/2507.19205)
 
 
 ## Library
