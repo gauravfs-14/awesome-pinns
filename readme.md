@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 29, 2025 at 01:48:50 AM UTC
+July 30, 2025 at 01:39:52 AM UTC
 
 
 ## Theorem
 
-## Papers (151)
+## Papers (156)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -171,6 +171,11 @@ July 29, 2025 at 01:48:50 AM UTC
 - [Physics-Informed Graph Neural Networks for Transverse Momentum Estimation in CMS Trigger Systems](https://arxiv.org/abs/2507.19205)
 - [Quantum-Efficient Convolution through Sparse Matrix Encoding and Low-Depth Inner Product Circuits](https://arxiv.org/abs/2507.19658)
 - [Applications and Manipulations of Physics-Informed Neural Networks in Solving Differential Equations](https://arxiv.org/abs/2507.19522)
+- [Linear Stability Analysis of Physics-Informed Random Projection Neural Networks for ODEs](https://arxiv.org/abs/2408.15393)
+- [Improving Neural Network Training using Dynamic Learning Rate Schedule for PINNs and Image Classification](https://arxiv.org/abs/2507.21749)
+- [PVD-ONet: A Multi-scale Neural Operator Method for Singularly Perturbed Boundary Layer Problems](https://arxiv.org/abs/2507.21437)
+- [DEM-NeRF: A Neuro-Symbolic Method for Scientific Discovery through Physics-Informed Simulation](https://arxiv.org/abs/2507.21350)
+- [Breaking the Precision Ceiling in Physics-Informed Neural Networks: A Hybrid Fourier-Neural Architecture for Ultra-High Accuracy](https://arxiv.org/abs/2507.20929)
 
 
 ## Library
