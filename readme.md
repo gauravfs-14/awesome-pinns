@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 3, 2025 at 01:46:45 AM UTC
+August 4, 2025 at 01:47:13 AM UTC
 
 
 ## Theorem
 
-## Papers (157)
+## Papers (160)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -177,6 +177,9 @@ August 3, 2025 at 01:46:45 AM UTC
 - [DEM-NeRF: A Neuro-Symbolic Method for Scientific Discovery through Physics-Informed Simulation](https://arxiv.org/abs/2507.21350)
 - [Breaking the Precision Ceiling in Physics-Informed Neural Networks: A Hybrid Fourier-Neural Architecture for Ultra-High Accuracy](https://arxiv.org/abs/2507.20929)
 - [LVM-GP: Uncertainty-Aware PDE Solver via coupling latent variable model and Gaussian process](https://arxiv.org/abs/2507.22493)
+- [Convergence of Implicit Gradient Descent for Training Two-Layer Physics-Informed Neural Networks](https://arxiv.org/abs/2407.02827)
+- [Separated-Variable Spectral Neural Networks: A Physics-Informed Learning Approach for High-Frequency PDEs](https://arxiv.org/abs/2508.00628)
+- [Double descent: When do neural quantum states generalize?](https://arxiv.org/abs/2508.00068)
 
 
 ## Library
