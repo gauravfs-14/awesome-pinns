@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 5, 2025 at 01:41:59 AM UTC
+August 6, 2025 at 01:40:31 AM UTC
 
 
 ## Theorem
 
-## Papers (165)
+## Papers (170)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -185,6 +185,11 @@ August 5, 2025 at 01:41:59 AM UTC
 - [Deep Operator Networks for Bayesian Parameter Estimation in PDEs](https://arxiv.org/abs/2501.10684)
 - [Predictive calibration for digital sun sensors using sparse submanifold convolutional neural networks](https://arxiv.org/abs/2508.00918)
 - [A Residual Guided strategy with Generative Adversarial Networks in training Physics-Informed Transformer Networks](https://arxiv.org/abs/2508.00855)
+- [QCPINN: Quantum-Classical Physics-Informed Neural Networks for Solving PDEs](https://arxiv.org/abs/2503.16678)
+- [Quantum Spectral Reasoning: A Non-Neural Architecture for Interpretable Machine Learning](https://arxiv.org/abs/2508.03170)
+- [Solved in Unit Domain: JacobiNet for Differentiable Coordinate Transformations](https://arxiv.org/abs/2508.02537)
+- [Flow-Aware GNN for Transmission Network Reconfiguration via Substation Breaker Optimization](https://arxiv.org/abs/2508.01951)
+- [Overcoming the Loss Conditioning Bottleneck in Optimization-Based PDE Solvers: A Novel Well-Conditioned Loss Function](https://arxiv.org/abs/2508.02692)
 
 
 ## Library
