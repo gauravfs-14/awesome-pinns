@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 6, 2025 at 01:40:31 AM UTC
+August 7, 2025 at 01:40:26 AM UTC
 
 
 ## Theorem
 
-## Papers (170)
+## Papers (173)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -190,6 +190,9 @@ August 6, 2025 at 01:40:31 AM UTC
 - [Solved in Unit Domain: JacobiNet for Differentiable Coordinate Transformations](https://arxiv.org/abs/2508.02537)
 - [Flow-Aware GNN for Transmission Network Reconfiguration via Substation Breaker Optimization](https://arxiv.org/abs/2508.01951)
 - [Overcoming the Loss Conditioning Bottleneck in Optimization-Based PDE Solvers: A Novel Well-Conditioned Loss Function](https://arxiv.org/abs/2508.02692)
+- [Physics-Informed Neural Network for Elastic Wave-Mode Separation](https://arxiv.org/abs/2508.04600)
+- [Improved Training Strategies for Physics-Informed Neural Networks using Real Experimental Data in Aluminum Spot Welding](https://arxiv.org/abs/2508.04595)
+- [BubbleONet: A Physics-Informed Neural Operator for High-Frequency Bubble Dynamics](https://arxiv.org/abs/2508.03965)
 
 
 ## Library
