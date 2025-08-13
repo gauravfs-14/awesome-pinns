@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 12, 2025 at 01:22:32 AM UTC
+August 13, 2025 at 01:24:11 AM UTC
 
 
 ## Theorem
 
-## Papers (179)
+## Papers (186)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -199,6 +199,13 @@ August 12, 2025 at 01:22:32 AM UTC
 - [Adaptive Collocation Point Strategies For Physics Informed Neural Networks via the QR Discrete Empirical Interpolation Method](https://arxiv.org/abs/2501.07700)
 - [Exploration of Hepatitis B Virus Infection Dynamics through Physics-Informed Deep Learning Approach](https://arxiv.org/abs/2503.10708)
 - [Hybrid Approaches for Black Hole Spin Estimation: From Classical Spectroscopy to Physics-Informed Machine Learning](https://arxiv.org/abs/2508.06506)
+- [Generalising Traffic Forecasting to Regions without Traffic Observations](https://arxiv.org/abs/2508.08947)
+- [LNN-PINN: A Unified Physics-Only Training Framework with Liquid Residual Blocks](https://arxiv.org/abs/2508.08935)
+- [A Physics-informed Deep Operator for Real-Time Freeway Traffic State Estimation](https://arxiv.org/abs/2508.08002)
+- [Prediction error certification for PINNs: Theory, computation, and application to Stokes flow](https://arxiv.org/abs/2508.07994)
+- [Learning Satellite Attitude Dynamics with Physics-Informed Normalising Flow](https://arxiv.org/abs/2508.07841)
+- [Chaos into Order: Neural Framework for Expected Value Estimation of Stochastic Partial Differential Equations](https://arxiv.org/abs/2502.03670)
+- [Time Marching Neural Operator FE Coupling: AI Accelerated Physics Modeling](https://arxiv.org/abs/2504.11383)
 
 
 ## Library
