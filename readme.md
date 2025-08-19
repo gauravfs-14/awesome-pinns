@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 18, 2025 at 01:38:40 AM UTC
+August 19, 2025 at 01:20:46 AM UTC
 
 
 ## Theorem
 
-## Papers (188)
+## Papers (192)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -208,6 +208,10 @@ August 18, 2025 at 01:38:40 AM UTC
 - [Time Marching Neural Operator FE Coupling: AI Accelerated Physics Modeling](https://arxiv.org/abs/2504.11383)
 - [Symmetry-Constrained Multi-Scale Physics-Informed Neural Networks for Graphene Electronic Band Structure Prediction](https://arxiv.org/abs/2508.10718)
 - [Estimating carbon pools in the shelf sea environment: reanalysis or model-informed machine learning?](https://arxiv.org/abs/2508.10178)
+- [Physics-informed deep operator network for traffic state estimation](https://arxiv.org/abs/2508.12593)
+- [Regime-Aware Time Weighting for Physics-Informed Neural Networks](https://arxiv.org/abs/2407.21642)
+- [Sub-Sequential Physics-Informed Learning with State Space Model](https://arxiv.org/abs/2502.00318)
+- [Machine Learning-Based AES Key Recovery via Side-Channel Analysis on the ASCAD Dataset](https://arxiv.org/abs/2508.11817)
 
 
 ## Library
