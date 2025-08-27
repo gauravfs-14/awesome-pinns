@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 26, 2025 at 01:19:40 AM UTC
+August 27, 2025 at 01:17:31 AM UTC
 
 
 ## Theorem
 
-## Papers (203)
+## Papers (207)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -223,6 +223,10 @@ August 26, 2025 at 01:19:40 AM UTC
 - [Physics-informed neural network for fatigue life prediction of irradiated austenitic and ferritic/martensitic steels](https://arxiv.org/abs/2508.17303)
 - [HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems](https://arxiv.org/abs/2505.03140)
 - [Optimizing the Optimizer for Physics-Informed Neural Networks and Kolmogorov-Arnold Networks](https://arxiv.org/abs/2501.16371)
+- [Automated discovery of finite volume schemes using Graph Neural Networks](https://arxiv.org/abs/2508.19052)
+- [PinnDE: Physics-Informed Neural Networks for Solving Differential Equations](https://arxiv.org/abs/2408.10011)
+- [Multi-timescale time encoding for CNN prediction of Fenna-Matthews-Olson energy-transfer dynamics](https://arxiv.org/abs/2503.17430)
+- [ChemKANs for Combustion Chemistry Modeling and Acceleration](https://arxiv.org/abs/2504.12580)
 
 
 ## Library
