@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 27, 2025 at 01:17:31 AM UTC
+August 28, 2025 at 01:16:47 AM UTC
 
 
 ## Theorem
 
-## Papers (207)
+## Papers (210)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -227,6 +227,9 @@ August 27, 2025 at 01:17:31 AM UTC
 - [PinnDE: Physics-Informed Neural Networks for Solving Differential Equations](https://arxiv.org/abs/2408.10011)
 - [Multi-timescale time encoding for CNN prediction of Fenna-Matthews-Olson energy-transfer dynamics](https://arxiv.org/abs/2503.17430)
 - [ChemKANs for Combustion Chemistry Modeling and Acceleration](https://arxiv.org/abs/2504.12580)
+- [Efficient PINNs via Multi-Head Unimodular Regularization of the Solutions Space](https://arxiv.org/abs/2501.12116)
+- [Constraining the Cosmological Constant from Stellar Orbits Around Sgr A* Using Physics-Informed Neural Networks](https://arxiv.org/abs/2508.19719)
+- [Differentiable multiphase flow model for physics-informed machine learning in reservoir pressure management](https://arxiv.org/abs/2508.19419)
 
 
 ## Library
