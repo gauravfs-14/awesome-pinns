@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 28, 2025 at 01:16:47 AM UTC
+August 29, 2025 at 01:16:42 AM UTC
 
 
 ## Theorem
 
-## Papers (210)
+## Papers (215)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -230,6 +230,11 @@ August 28, 2025 at 01:16:47 AM UTC
 - [Efficient PINNs via Multi-Head Unimodular Regularization of the Solutions Space](https://arxiv.org/abs/2501.12116)
 - [Constraining the Cosmological Constant from Stellar Orbits Around Sgr A* Using Physics-Informed Neural Networks](https://arxiv.org/abs/2508.19719)
 - [Differentiable multiphase flow model for physics-informed machine learning in reservoir pressure management](https://arxiv.org/abs/2508.19419)
+- [Fast Convergence Rates for Subsampled Natural Gradient Algorithms on Quadratic Model Problems](https://arxiv.org/abs/2508.21022)
+- [Polynomial Chaos Expansion for Operator Learning](https://arxiv.org/abs/2508.20886)
+- [Physics-informed Hamiltonian learning for large-scale optoelectronic property prediction](https://arxiv.org/abs/2508.20536)
+- [Molecular Machine Learning in Chemical Process Design](https://arxiv.org/abs/2508.20527)
+- [Neural Spline Operators for Risk Quantification in Stochastic Systems](https://arxiv.org/abs/2508.20288)
 
 
 ## Library
