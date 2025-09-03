@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 2, 2025 at 01:18:03 AM UTC
+September 3, 2025 at 01:13:38 AM UTC
 
 
 ## Theorem
 
-## Papers (217)
+## Papers (220)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -237,6 +237,9 @@ September 2, 2025 at 01:18:03 AM UTC
 - [Neural Spline Operators for Risk Quantification in Stochastic Systems](https://arxiv.org/abs/2508.20288)
 - [Convergence of Stochastic Gradient Methods for Wide Two-Layer Physics-Informed Neural Networks](https://arxiv.org/abs/2508.21571)
 - [Limitations of Physics-Informed Neural Networks: a Study on Smart Grid Surrogation](https://arxiv.org/abs/2508.21559)
+- [An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Operator Learning Network](https://arxiv.org/abs/2509.00663)
+- [Estimating Parameter Fields in Multi-Physics PDEs from Scarce Measurements](https://arxiv.org/abs/2509.00203)
+- [Adaptive Physics-Informed Neural Networks with Multi-Category Feature Engineering for Hydrogen Sorption Prediction in Clays, Shales, and Coals](https://arxiv.org/abs/2509.00049)
 
 
 ## Library
