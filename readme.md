@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 3, 2025 at 01:13:38 AM UTC
+September 4, 2025 at 01:13:24 AM UTC
 
 
 ## Theorem
 
-## Papers (220)
+## Papers (229)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -240,6 +240,15 @@ September 3, 2025 at 01:13:38 AM UTC
 - [An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Operator Learning Network](https://arxiv.org/abs/2509.00663)
 - [Estimating Parameter Fields in Multi-Physics PDEs from Scarce Measurements](https://arxiv.org/abs/2509.00203)
 - [Adaptive Physics-Informed Neural Networks with Multi-Category Feature Engineering for Hydrogen Sorption Prediction in Clays, Shales, and Coals](https://arxiv.org/abs/2509.00049)
+- [Non-Asymptotic Stability and Consistency Guarantees for Physics-Informed Neural Networks via Coercive Operator Analysis](https://arxiv.org/abs/2506.13554)
+- [HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction](https://arxiv.org/abs/2509.02481)
+- [Local Feature Filtering for Scalable and Well-Conditioned Domain-Decomposed Random Feature Methods](https://arxiv.org/abs/2506.17626)
+- [Computational Fluid Dynamics Optimization of F1 Front Wing using Physics Informed Neural Networks](https://arxiv.org/abs/2509.01963)
+- [Expedited Noise Spectroscopy of Transmon Qubits](https://arxiv.org/abs/2502.00679)
+- [Mask-PINNs: Mitigating Internal Covariate Shift in Physics-Informed Neural Networks](https://arxiv.org/abs/2505.06331)
+- [Quantum Reservoir Computing Implementations for Classical and Quantum Problems](https://arxiv.org/abs/2211.08567)
+- [RAMS: Residual-based adversarial-gradient moving sample method for scientific machine learning in solving partial differential equations](https://arxiv.org/abs/2509.01234)
+- [Towards Digital Twins for Optimal Radioembolization](https://arxiv.org/abs/2509.02607)
 
 
 ## Library
