@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 8, 2025 at 01:19:05 AM UTC
+September 9, 2025 at 01:16:15 AM UTC
 
 
 ## Theorem
 
-## Papers (231)
+## Papers (234)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -251,6 +251,9 @@ September 8, 2025 at 01:19:05 AM UTC
 - [Towards Digital Twins for Optimal Radioembolization](https://arxiv.org/abs/2509.02607)
 - [HyPINO: Multi-Physics Neural Operators via HyperPINNs and the Method of Manufactured Solutions](https://arxiv.org/abs/2509.05117)
 - [Neuro-Spectral Architectures for Causal Physics-Informed Networks](https://arxiv.org/abs/2509.04966)
+- [A general framework for knowledge integration in machine learning for electromagnetic scattering using quasinormal modes](https://arxiv.org/abs/2509.06130)
+- [SPINN: An Optimal Self-Supervised Physics-Informed Neural Network Framework](https://arxiv.org/abs/2509.05886)
+- [Universality of physical neural networks with multivariate nonlinearity](https://arxiv.org/abs/2509.05420)
 
 
 ## Library
