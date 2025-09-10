@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 9, 2025 at 01:16:15 AM UTC
+September 10, 2025 at 01:14:55 AM UTC
 
 
 ## Theorem
 
-## Papers (234)
+## Papers (237)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -254,6 +254,9 @@ September 9, 2025 at 01:16:15 AM UTC
 - [A general framework for knowledge integration in machine learning for electromagnetic scattering using quasinormal modes](https://arxiv.org/abs/2509.06130)
 - [SPINN: An Optimal Self-Supervised Physics-Informed Neural Network Framework](https://arxiv.org/abs/2509.05886)
 - [Universality of physical neural networks with multivariate nonlinearity](https://arxiv.org/abs/2509.05420)
+- [Improved Physics-informed neural networks loss function regularization with a variance-based term](https://arxiv.org/abs/2412.13993)
+- [Homogenization with Guaranteed Bounds via Primal-Dual Physically Informed Neural Networks](https://arxiv.org/abs/2509.07579)
+- [IP-Basis PINNs: Efficient Multi-Query Inverse Parameter Estimation](https://arxiv.org/abs/2509.07245)
 
 
 ## Library
