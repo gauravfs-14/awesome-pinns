@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 10, 2025 at 01:14:55 AM UTC
+September 11, 2025 at 01:15:55 AM UTC
 
 
 ## Theorem
 
-## Papers (237)
+## Papers (241)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -257,6 +257,10 @@ September 10, 2025 at 01:14:55 AM UTC
 - [Improved Physics-informed neural networks loss function regularization with a variance-based term](https://arxiv.org/abs/2412.13993)
 - [Homogenization with Guaranteed Bounds via Primal-Dual Physically Informed Neural Networks](https://arxiv.org/abs/2509.07579)
 - [IP-Basis PINNs: Efficient Multi-Query Inverse Parameter Estimation](https://arxiv.org/abs/2509.07245)
+- [DEQuify your force field: More efficient simulations using deep equilibrium models](https://arxiv.org/abs/2509.08734)
+- [A DEM-driven machine learning framework for abrasive wear prediction](https://arxiv.org/abs/2509.08637)
+- [MasconCube: Fast and Accurate Gravity Modeling with an Explicit Representation](https://arxiv.org/abs/2509.08607)
+- [Facet: highly efficient E(3)-equivariant networks for interatomic potentials](https://arxiv.org/abs/2509.08418)
 
 
 ## Library
