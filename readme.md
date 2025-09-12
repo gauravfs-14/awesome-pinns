@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 11, 2025 at 01:15:55 AM UTC
+September 12, 2025 at 01:13:04 AM UTC
 
 
 ## Theorem
 
-## Papers (241)
+## Papers (245)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -261,6 +261,10 @@ September 11, 2025 at 01:15:55 AM UTC
 - [A DEM-driven machine learning framework for abrasive wear prediction](https://arxiv.org/abs/2509.08637)
 - [MasconCube: Fast and Accurate Gravity Modeling with an Explicit Representation](https://arxiv.org/abs/2509.08607)
 - [Facet: highly efficient E(3)-equivariant networks for interatomic potentials](https://arxiv.org/abs/2509.08418)
+- [ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance](https://arxiv.org/abs/2509.09611)
+- [Causal PDE-Control Models: A Structural Framework for Dynamic Portfolio Optimization](https://arxiv.org/abs/2509.09585)
+- [Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.09135)
+- [WarpPINN-fibers: improved cardiac strain estimation from cine-MR with physics-informed neural networks](https://arxiv.org/abs/2509.08872)
 
 
 ## Library
