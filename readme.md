@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 14, 2025 at 01:19:43 AM UTC
+September 15, 2025 at 01:19:58 AM UTC
 
 
 ## Theorem
 
-## Papers (245)
+## Papers (246)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -265,6 +265,7 @@ September 14, 2025 at 01:19:43 AM UTC
 - [Causal PDE-Control Models: A Structural Framework for Dynamic Portfolio Optimization](https://arxiv.org/abs/2509.09585)
 - [Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.09135)
 - [WarpPINN-fibers: improved cardiac strain estimation from cine-MR with physics-informed neural networks](https://arxiv.org/abs/2509.08872)
+- [SciML Agents: Write the Solver, Not the Solution](https://arxiv.org/abs/2509.09936)
 
 
 ## Library
