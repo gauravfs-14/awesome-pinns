@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 15, 2025 at 01:19:58 AM UTC
+September 16, 2025 at 01:13:58 AM UTC
 
 
 ## Theorem
 
-## Papers (246)
+## Papers (249)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -266,6 +266,9 @@ September 15, 2025 at 01:19:58 AM UTC
 - [Continuous-Time Value Iteration for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2509.09135)
 - [WarpPINN-fibers: improved cardiac strain estimation from cine-MR with physics-informed neural networks](https://arxiv.org/abs/2509.08872)
 - [SciML Agents: Write the Solver, Not the Solution](https://arxiv.org/abs/2509.09936)
+- [Potential failures of physics-informed machine learning in traffic flow modeling: theoretical and experimental analysis](https://arxiv.org/abs/2505.11491)
+- [Physics-informed neural network solves minimal surfaces in curved spacetime](https://arxiv.org/abs/2509.10866)
+- [Assessing the Limits of Graph Neural Networks for Vapor-Liquid Equilibrium Prediction: A Cryogenic Mixture Case Study](https://arxiv.org/abs/2509.10565)
 
 
 ## Library
