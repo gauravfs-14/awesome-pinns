@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 16, 2025 at 01:13:58 AM UTC
+September 17, 2025 at 01:13:43 AM UTC
 
 
 ## Theorem
 
-## Papers (249)
+## Papers (259)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -269,6 +269,16 @@ September 16, 2025 at 01:13:58 AM UTC
 - [Potential failures of physics-informed machine learning in traffic flow modeling: theoretical and experimental analysis](https://arxiv.org/abs/2505.11491)
 - [Physics-informed neural network solves minimal surfaces in curved spacetime](https://arxiv.org/abs/2509.10866)
 - [Assessing the Limits of Graph Neural Networks for Vapor-Liquid Equilibrium Prediction: A Cryogenic Mixture Case Study](https://arxiv.org/abs/2509.10565)
+- [Hybrid Two-Stage Reconstruction of Multiscale Subsurface Flow with Physics-informed Residual Connected Neural Operator](https://arxiv.org/abs/2501.13271)
+- [PBPK-iPINNs : Inverse Physics-Informed Neural Networks for Physiologically Based Pharmacokinetic Brain Models](https://arxiv.org/abs/2509.12666)
+- [Comparative Analysis of Wave Scattering Numerical Modeling Using the Boundary Element Method and Physics-Informed Neural Networks](https://arxiv.org/abs/2509.12483)
+- [Quantum Noise Tomography with Physics-Informed Neural Networks](https://arxiv.org/abs/2509.11911)
+- [Extraction of Dihadron Fragmentation Functions at NNLO with and without Neural Networks](https://arxiv.org/abs/2509.11855)
+- [Stabilizing PINNs: A regularization scheme for PINN training to avoid unstable fixed points of dynamical systems](https://arxiv.org/abs/2509.11768)
+- [Reconstructing High-fidelity Plasma Turbulence with Data-driven Tuning of Diffusion in Low Resolution Grids](https://arxiv.org/abs/2509.11576)
+- [Solved in Unit Domain: JacobiNet for Differentiable Coordinate-Transformed PINNs](https://arxiv.org/abs/2508.02537)
+- [Physics-Informed Neural Networks vs. Physics Models for Non-Invasive Glucose Monitoring: A Comparative Study Under Realistic Synthetic Conditions](https://arxiv.org/abs/2509.12253)
+- [A Physics-Informed Neural Networks-Based Model Predictive Control Framework for SIRSIR Epidemics](https://arxiv.org/abs/2509.12226)
 
 
 ## Library
