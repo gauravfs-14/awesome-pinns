@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 17, 2025 at 01:13:43 AM UTC
+September 18, 2025 at 01:13:55 AM UTC
 
 
 ## Theorem
 
-## Papers (259)
+## Papers (262)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -279,6 +279,9 @@ September 17, 2025 at 01:13:43 AM UTC
 - [Solved in Unit Domain: JacobiNet for Differentiable Coordinate-Transformed PINNs](https://arxiv.org/abs/2508.02537)
 - [Physics-Informed Neural Networks vs. Physics Models for Non-Invasive Glucose Monitoring: A Comparative Study Under Realistic Synthetic Conditions](https://arxiv.org/abs/2509.12253)
 - [A Physics-Informed Neural Networks-Based Model Predictive Control Framework for SIRSIR Epidemics](https://arxiv.org/abs/2509.12226)
+- [A Conformal Prediction Framework for Uncertainty Quantification in Physics-Informed Neural Networks](https://arxiv.org/abs/2509.13717)
+- [Self-adaptive weights based on balanced residual decay rate for physics-informed neural networks and deep operator networks](https://arxiv.org/abs/2407.01613)
+- [Unified Spatiotemopral Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](https://arxiv.org/abs/2509.13425)
 
 
 ## Library
