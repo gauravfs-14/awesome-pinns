@@ -14,12 +14,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 18, 2025 at 01:13:55 AM UTC
+September 19, 2025 at 01:16:15 AM UTC
 
 
 ## Theorem
 
-## Papers (262)
+## Papers (267)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -282,6 +282,11 @@ September 18, 2025 at 01:13:55 AM UTC
 - [A Conformal Prediction Framework for Uncertainty Quantification in Physics-Informed Neural Networks](https://arxiv.org/abs/2509.13717)
 - [Self-adaptive weights based on balanced residual decay rate for physics-informed neural networks and deep operator networks](https://arxiv.org/abs/2407.01613)
 - [Unified Spatiotemopral Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](https://arxiv.org/abs/2509.13425)
+- [Advanced Physics-Informed Neural Network with Residuals for Solving Complex Integral Equations](https://arxiv.org/abs/2501.16370)
+- [Unified Spatiotemporal Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](https://arxiv.org/abs/2509.13425)
+- [Evidential Physics-Informed Neural Networks for Scientific Discovery](https://arxiv.org/abs/2509.14568)
+- [Data-driven discovery of governing equation for sheared granular materials in steady and transient states](https://arxiv.org/abs/2509.14518)
+- [Multi-Objective Loss Balancing in Physics-Informed Neural Networks for Fluid Flow Applications](https://arxiv.org/abs/2509.14437)
 
 
 ## Library
