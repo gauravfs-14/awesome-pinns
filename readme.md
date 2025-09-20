@@ -11,6 +11,20 @@ A carefully curated collection of high-quality libraries, projects, tutorials, r
 
 To ensure that the community stays up to date with the latest breakthroughs, our repository is automatically updated with new PINN/PIML-related research papers from arXiv. This feature guarantees access to cutting-edge developments, making it an invaluable resource for anyone exploring physics-constrained learning methods.
 
+> [!NOTE]
+> 📢 **Announcement:** Our paper from AIT Lab is now available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397746)!  
+> **Title:** *Not Just Another Survey on Physics-Informed Neural Networks (PINNs): Foundations, Advances, and Open Problems*  
+> If you find this paper interesting, please consider citing our work. Thank you for your support!
+
+```bibtex
+@article{somvanshi2025not,
+  title={Not Just Another Survey on Physics-Informed Neural Networks (PINNs): Foundations, Advances, and Open Problems},
+  author={Somvanshi, Shriyank and Aibinu, Mathew Olajiire and Chakraborty, Rohit and Islam, Md Monzurul and Mimi, Mahmuda Sultana and Koirala, Dipti and Brotee, Shamyo and Dutta, Anandi and Das, Subasish},
+  journal={Available at SSRN},
+  year={2025}
+}
+```
+
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
