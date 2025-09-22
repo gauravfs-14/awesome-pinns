@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 21, 2025 at 01:21:40 AM UTC
+September 22, 2025 at 01:20:58 AM UTC
 
 
 ## Theorem
 
-## Papers (267)
+## Papers (270)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -301,6 +301,9 @@ September 21, 2025 at 01:21:40 AM UTC
 - [Evidential Physics-Informed Neural Networks for Scientific Discovery](https://arxiv.org/abs/2509.14568)
 - [Data-driven discovery of governing equation for sheared granular materials in steady and transient states](https://arxiv.org/abs/2509.14518)
 - [Multi-Objective Loss Balancing in Physics-Informed Neural Networks for Fluid Flow Applications](https://arxiv.org/abs/2509.14437)
+- [Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective](https://arxiv.org/abs/2502.00604)
+- [PBPK-iPINNs: Inverse Physics-Informed Neural Networks for Physiologically Based Pharmacokinetic Brain Models](https://arxiv.org/abs/2509.12666)
+- [Bayesian Physics Informed Neural Networks for Reliable Transformer Prognostics](https://arxiv.org/abs/2509.15933)
 
 
 ## Library
