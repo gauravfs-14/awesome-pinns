@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 22, 2025 at 01:20:58 AM UTC
+September 23, 2025 at 01:14:39 AM UTC
 
 
 ## Theorem
 
-## Papers (270)
+## Papers (273)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -304,6 +304,9 @@ September 22, 2025 at 01:20:58 AM UTC
 - [Gradient Alignment in Physics-informed Neural Networks: A Second-Order Optimization Perspective](https://arxiv.org/abs/2502.00604)
 - [PBPK-iPINNs: Inverse Physics-Informed Neural Networks for Physiologically Based Pharmacokinetic Brain Models](https://arxiv.org/abs/2509.12666)
 - [Bayesian Physics Informed Neural Networks for Reliable Transformer Prognostics](https://arxiv.org/abs/2509.15933)
+- [Solving Partial Differential Equations with Random Feature Models](https://arxiv.org/abs/2501.00288)
+- [PACMANN: Point Adaptive Collocation Method for Artificial Neural Networks](https://arxiv.org/abs/2411.19632)
+- [Machine Learning for Quantum Noise Reduction](https://arxiv.org/abs/2509.16242)
 
 
 ## Library
