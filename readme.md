@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 23, 2025 at 01:14:39 AM UTC
+September 24, 2025 at 01:15:02 AM UTC
 
 
 ## Theorem
 
-## Papers (273)
+## Papers (276)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -307,6 +307,9 @@ September 23, 2025 at 01:14:39 AM UTC
 - [Solving Partial Differential Equations with Random Feature Models](https://arxiv.org/abs/2501.00288)
 - [PACMANN: Point Adaptive Collocation Method for Artificial Neural Networks](https://arxiv.org/abs/2411.19632)
 - [Machine Learning for Quantum Noise Reduction](https://arxiv.org/abs/2509.16242)
+- [Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems](https://arxiv.org/abs/2501.07373)
+- [Physics-informed time series analysis with Kolmogorov-Arnold Networks under Ehrenfest constraints](https://arxiv.org/abs/2509.18483)
+- [SeqBattNet: A Discrete-State Physics-Informed Neural Network with Aging Adaptation for Battery Modeling](https://arxiv.org/abs/2509.17621)
 
 
 ## Library
