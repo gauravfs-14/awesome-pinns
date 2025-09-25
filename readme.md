@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 24, 2025 at 01:15:02 AM UTC
+September 25, 2025 at 01:15:47 AM UTC
 
 
 ## Theorem
 
-## Papers (276)
+## Papers (280)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -310,6 +310,10 @@ September 24, 2025 at 01:15:02 AM UTC
 - [Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems](https://arxiv.org/abs/2501.07373)
 - [Physics-informed time series analysis with Kolmogorov-Arnold Networks under Ehrenfest constraints](https://arxiv.org/abs/2509.18483)
 - [SeqBattNet: A Discrete-State Physics-Informed Neural Network with Aging Adaptation for Battery Modeling](https://arxiv.org/abs/2509.17621)
+- [Examining the robustness of Physics-Informed Neural Networks to noise for Inverse Problems](https://arxiv.org/abs/2509.20191)
+- [Model-Agnostic AI Framework with Explicit Time Integration for Long-Term Fluid Dynamics Prediction](https://arxiv.org/abs/2412.05657)
+- [THINNs: Thermodynamically Informed Neural Networks](https://arxiv.org/abs/2509.19467)
+- [Study Design and Demystification of Physics Informed Neural Networks for Power Flow Simulation](https://arxiv.org/abs/2509.19233)
 
 
 ## Library
