@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 28, 2025 at 01:22:43 AM UTC
+September 29, 2025 at 01:17:18 AM UTC
 
 
 ## Theorem
 
-## Papers (285)
+## Papers (288)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -319,6 +319,9 @@ September 28, 2025 at 01:22:43 AM UTC
 - [PALQO: Physics-informed Model for Accelerating Large-scale Quantum Optimization](https://arxiv.org/abs/2509.20733)
 - [Learning Greens Operators through Hierarchical Neural Networks Inspired by the Fast Multipole Method](https://arxiv.org/abs/2509.20591)
 - [Neural Networks as Surrogate Solvers for Time-Dependent Accretion Disk Dynamics](https://arxiv.org/abs/2509.20447)
+- [BPINN-EM-Post: Bayesian Physics-Informed Neural Network based Stochastic Electromigration Damage Analysis in the Post-void Phase](https://arxiv.org/abs/2503.17393)
+- [Reparameterizing 4DVAR with neural fields](https://arxiv.org/abs/2509.21751)
+- [Impact of Loss Weight and Model Complexity on Physics-Informed Neural Networks for Computational Fluid Dynamics](https://arxiv.org/abs/2509.21393)
 
 
 ## Library
