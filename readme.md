@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 30, 2025 at 01:16:40 AM UTC
+October 1, 2025 at 01:23:51 AM UTC
 
 
 ## Theorem
 
-## Papers (290)
+## Papers (297)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -324,6 +324,13 @@ September 30, 2025 at 01:16:40 AM UTC
 - [Impact of Loss Weight and Model Complexity on Physics-Informed Neural Networks for Computational Fluid Dynamics](https://arxiv.org/abs/2509.21393)
 - [Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator](https://arxiv.org/abs/2509.22458)
 - [Identifying Memory Effects in Epidemics via a Fractional SEIRD Model and Physics-Informed Neural Networks](https://arxiv.org/abs/2509.22760)
+- [Physics-Informed Inductive Biases for Voltage Prediction in Distribution Grids](https://arxiv.org/abs/2509.25158)
+- [Towards generalizable deep ptychography neural networks](https://arxiv.org/abs/2509.25104)
+- [Inferring Cosmological Parameters with Evidential Physics-Informed Neural Networks](https://arxiv.org/abs/2509.24327)
+- [White-box machine learning for uncovering physically interpretable dimensionless governing equations for granular materials](https://arxiv.org/abs/2509.14518)
+- [Weight-Space Linear Recurrent Neural Networks](https://arxiv.org/abs/2506.01153)
+- [DeepONet for Solving Nonlinear Partial Differential Equations with Physics-Informed Training](https://arxiv.org/abs/2410.04344)
+- [MAD-PINN: A Decentralized Physics-Informed Machine Learning Framework for Safe and Optimal Multi-Agent Control](https://arxiv.org/abs/2509.23960)
 
 
 ## Library
