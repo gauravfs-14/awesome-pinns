@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 6, 2025 at 01:16:17 AM UTC
+October 7, 2025 at 01:14:52 AM UTC
 
 
 ## Theorem
 
-## Papers (303)
+## Papers (305)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -337,6 +337,8 @@ October 6, 2025 at 01:16:17 AM UTC
 - [Architecturally Constrained Solutions to Ill-Conditioned Problems in QUBIC](https://arxiv.org/abs/2510.00090)
 - [Physics-Informed Machine Learning Approach in Augmenting RANS Models Using DNS Data and DeepInsight Method on FDA Nozzle](https://arxiv.org/abs/2510.01091)
 - [Gated X-TFC: Soft Domain Decomposition for Forward and Inverse Problems in Sharp-Gradient PDEs](https://arxiv.org/abs/2510.01039)
+- [Nyström-Accelerated Primal LS-SVMs: Breaking the O(an^3)O(an^3) Complexity Bottleneck for Scalable ODEs Learning](https://arxiv.org/abs/2510.04094)
+- [Quantifying constraint hierarchies in Bayesian PINNs via per-constraint Hessian decomposition](https://arxiv.org/abs/2510.03278)
 
 
 ## Library
