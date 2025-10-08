@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 7, 2025 at 01:14:52 AM UTC
+October 8, 2025 at 01:14:50 AM UTC
 
 
 ## Theorem
 
-## Papers (305)
+## Papers (311)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -339,6 +339,12 @@ October 7, 2025 at 01:14:52 AM UTC
 - [Gated X-TFC: Soft Domain Decomposition for Forward and Inverse Problems in Sharp-Gradient PDEs](https://arxiv.org/abs/2510.01039)
 - [Nyström-Accelerated Primal LS-SVMs: Breaking the O(an^3)O(an^3) Complexity Bottleneck for Scalable ODEs Learning](https://arxiv.org/abs/2510.04094)
 - [Quantifying constraint hierarchies in Bayesian PINNs via per-constraint Hessian decomposition](https://arxiv.org/abs/2510.03278)
+- [Physics-Informed Machine Learning in Biomedical Science and Engineering](https://arxiv.org/abs/2510.05433)
+- [Physics-Informed Neural Networks with Fourier Features and Attention-Driven Decoding](https://arxiv.org/abs/2510.05385)
+- [Data-Driven Adaptive PID Control Based on Physics-Informed Neural Networks](https://arxiv.org/abs/2510.04591)
+- [Deep vs. Shallow: Benchmarking Physics-Informed Neural Architectures on the Biharmonic Equation](https://arxiv.org/abs/2510.04490)
+- [Towards Fast Option Pricing PDE Solvers Powered by PIELM](https://arxiv.org/abs/2510.04322)
+- [Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework](https://arxiv.org/abs/2510.05158)
 
 
 ## Library
