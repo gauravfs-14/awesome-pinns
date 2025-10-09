@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 8, 2025 at 01:14:50 AM UTC
+October 9, 2025 at 01:15:28 AM UTC
 
 
 ## Theorem
 
-## Papers (311)
+## Papers (319)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -345,6 +345,14 @@ October 8, 2025 at 01:14:50 AM UTC
 - [Deep vs. Shallow: Benchmarking Physics-Informed Neural Architectures on the Biharmonic Equation](https://arxiv.org/abs/2510.04490)
 - [Towards Fast Option Pricing PDE Solvers Powered by PIELM](https://arxiv.org/abs/2510.04322)
 - [Lang-PINN: From Language to Physics-Informed Neural Networks via a Multi-Agent Framework](https://arxiv.org/abs/2510.05158)
+- [Error Bounds for Physics-Informed Neural Networks in Fokker-Planck PDEs](https://arxiv.org/abs/2410.22371)
+- [Modeling COVID-19 Dynamics in German States Using Physics-Informed Neural Networks](https://arxiv.org/abs/2510.06776)
+- [AutoBalance: An Automatic Balancing Framework for Training Physics-Informed Neural Networks](https://arxiv.org/abs/2510.06684)
+- [StruSR: Structure-Aware Symbolic Regression with Physics-Informed Taylor Guidance](https://arxiv.org/abs/2510.06635)
+- [Learning Non-Ideal Vortex Flows Using the Differentiable Vortex Particle Method](https://arxiv.org/abs/2503.17012)
+- [Diffusion-Guided Renormalization of Neural Systems via Tensor Networks](https://arxiv.org/abs/2510.06361)
+- [PIKAN: Physics-Inspired Kolmogorov-Arnold Networks for Explainable UAV Channel Modelling](https://arxiv.org/abs/2510.06355)
+- [Mass Conservation on Rails - Rethinking Physics-Informed Learning of Ice Flow Vector Fields](https://arxiv.org/abs/2510.06286)
 
 
 ## Library
