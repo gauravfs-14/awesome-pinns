@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 12, 2025 at 01:19:03 AM UTC
+October 13, 2025 at 01:20:24 AM UTC
 
 
 ## Theorem
 
-## Papers (321)
+## Papers (326)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -355,6 +355,11 @@ October 12, 2025 at 01:19:03 AM UTC
 - [Mass Conservation on Rails - Rethinking Physics-Informed Learning of Ice Flow Vector Fields](https://arxiv.org/abs/2510.06286)
 - [Beyond the Training Data: Confidence-Guided Mixing of Parameterizations in a Hybrid AI-Climate Model](https://arxiv.org/abs/2510.08107)
 - [Mass Conservation on Rails -- Rethinking Physics-Informed Learning of Ice Flow Vector Fields](https://arxiv.org/abs/2510.06286)
+- [A Morphology-Adaptive Random Feature Method for Inverse Source Problem of the Helmholtz Equation](https://arxiv.org/abs/2510.09213)
+- [Augmented data and neural networks for robust epidemic forecasting: application to COVID-19 in Italy](https://arxiv.org/abs/2510.09192)
+- [Physics-Informed High-order Graph Dynamics Identification Learning for Predicting Complex Networks Long-term Dynamics](https://arxiv.org/abs/2510.09082)
+- [AB-PINNs: Adaptive-Basis Physics-Informed Neural Networks for Residual-Driven Domain Decomposition](https://arxiv.org/abs/2510.08924)
+- [PO-CKAN:Physics Informed Deep Operator Kolmogorov Arnold Networks with Chunk Rational Structure](https://arxiv.org/abs/2510.08795)
 
 
 ## Library
