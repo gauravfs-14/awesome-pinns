@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 13, 2025 at 01:20:24 AM UTC
+October 14, 2025 at 01:15:42 AM UTC
 
 
 ## Theorem
 
-## Papers (326)
+## Papers (330)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -360,6 +360,10 @@ October 13, 2025 at 01:20:24 AM UTC
 - [Physics-Informed High-order Graph Dynamics Identification Learning for Predicting Complex Networks Long-term Dynamics](https://arxiv.org/abs/2510.09082)
 - [AB-PINNs: Adaptive-Basis Physics-Informed Neural Networks for Residual-Driven Domain Decomposition](https://arxiv.org/abs/2510.08924)
 - [PO-CKAN:Physics Informed Deep Operator Kolmogorov Arnold Networks with Chunk Rational Structure](https://arxiv.org/abs/2510.08795)
+- [Gradient Enhanced Self-Training Physics-Informed Neural Network (gST-PINN) for Solving Nonlinear Partial Differential Equations](https://arxiv.org/abs/2510.10483)
+- [Temporal Lifting as Latent-Space Regularization for Continuous-Time Flow Models in AI Systems](https://arxiv.org/abs/2510.09805)
+- [A Digital Twin for Diesel Engines: Operator-infused Physics-Informed Neural Networks with Transfer Learning for Engine Health Monitoring](https://arxiv.org/abs/2412.11967)
+- [Neural PDE Solvers with Physics Constraints: A Comparative Study of PINNs, DRM, and WANs](https://arxiv.org/abs/2510.09693)
 
 
 ## Library
