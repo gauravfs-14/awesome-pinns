@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 16, 2025 at 01:17:04 AM UTC
+October 17, 2025 at 01:16:57 AM UTC
 
 
 ## Theorem
 
-## Papers (334)
+## Papers (335)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -368,6 +368,7 @@ October 16, 2025 at 01:17:04 AM UTC
 - [Accelerating Natural Gradient Descent for PINNs with Randomized Nyström Preconditioning](https://arxiv.org/abs/2505.11638)
 - [Near-Infrared Hyperspectral Imaging Applications in Food Analysis -- Improving Algorithms and Methodologies](https://arxiv.org/abs/2510.13452)
 - [Modeling Adoptive Cell Therapy in Bladder Cancer from Sparse Biological Data using PINNs](https://arxiv.org/abs/2510.13431)
+- [Quantum machine learning and quantum-inspired methods applied to computational fluid dynamics: a short review](https://arxiv.org/abs/2510.14099)
 
 
 ## Library
