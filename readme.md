@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 20, 2025 at 01:22:39 AM UTC
+October 21, 2025 at 01:18:54 AM UTC
 
 
 ## Theorem
 
-## Papers (337)
+## Papers (341)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -371,6 +371,10 @@ October 20, 2025 at 01:22:39 AM UTC
 - [Quantum machine learning and quantum-inspired methods applied to computational fluid dynamics: a short review](https://arxiv.org/abs/2510.14099)
 - [Towards Symmetry-Aware Efficient Simulation of Quantum Systems and Beyond](https://arxiv.org/abs/2303.11409)
 - [A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis](https://arxiv.org/abs/2510.15750)
+- [Navigating Uncertainties in Machine Learning for Structural Dynamics: A Comprehensive Survey of Probabilistic and Non-Probabilistic Approaches in Forward and Inverse Problems](https://arxiv.org/abs/2408.08629)
+- [Physics-Informed Deep B-Spline Networks](https://arxiv.org/abs/2503.16777)
+- [Residual Correction Models for AC Optimal Power Flow Using DC Optimal Power Flow Solutions](https://arxiv.org/abs/2510.16064)
+- [AMStraMGRAM: Adaptive Multi-cutoff Strategy Modification for ANaGRAM](https://arxiv.org/abs/2510.15998)
 
 
 ## Library
