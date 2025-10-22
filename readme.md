@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 21, 2025 at 01:18:54 AM UTC
+October 22, 2025 at 01:20:31 AM UTC
 
 
 ## Theorem
 
-## Papers (341)
+## Papers (346)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -375,6 +375,11 @@ October 21, 2025 at 01:18:54 AM UTC
 - [Physics-Informed Deep B-Spline Networks](https://arxiv.org/abs/2503.16777)
 - [Residual Correction Models for AC Optimal Power Flow Using DC Optimal Power Flow Solutions](https://arxiv.org/abs/2510.16064)
 - [AMStraMGRAM: Adaptive Multi-cutoff Strategy Modification for ANaGRAM](https://arxiv.org/abs/2510.15998)
+- [A Physics-Informed Spatiotemporal Deep Learning Framework for Turbulent Systems](https://arxiv.org/abs/2505.10919)
+- [Ensemble based Closed-Loop Optimal Control using Physics-Informed Neural Networks](https://arxiv.org/abs/2510.18195)
+- [Prediction of Sea Ice Velocity and Concentration in the Arctic Ocean using Physics-informed Neural Network](https://arxiv.org/abs/2510.17756)
+- [Optimizing Energy Management of Smart Grid using Reinforcement Learning aided by Surrogate models built using Physics-informed Neural Networks](https://arxiv.org/abs/2510.17380)
+- [Decentralized Real-Time Planning for Multi-UAV Cooperative Manipulation via Imitation Learning](https://arxiv.org/abs/2510.17143)
 
 
 ## Library
