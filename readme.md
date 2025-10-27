@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 26, 2025 at 01:23:21 AM UTC
+October 27, 2025 at 01:24:49 AM UTC
 
 
 ## Theorem
 
-## Papers (349)
+## Papers (352)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -383,6 +383,9 @@ October 26, 2025 at 01:23:21 AM UTC
 - [Iterative Training of Physics-Informed Neural Networks with Fourier-enhanced Features](https://arxiv.org/abs/2510.19399)
 - [A decomposition-based robust training of physics-informed neural networks for nearly incompressible linear elasticity](https://arxiv.org/abs/2505.21994)
 - [Improving Energy Natural Gradient Descent through Woodbury, Momentum, and Randomization](https://arxiv.org/abs/2505.12149)
+- [A Rapid Physics-Informed Machine Learning Framework Based on Extreme Learning Machine for Inverse Stefan Problems](https://arxiv.org/abs/2510.21426)
+- [A discrete physics-informed training for projection-based reduced order models with neural networks](https://arxiv.org/abs/2504.13875)
+- [PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling](https://arxiv.org/abs/2510.21262)
 
 
 ## Library
