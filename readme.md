@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 27, 2025 at 01:24:49 AM UTC
+October 28, 2025 at 01:17:21 AM UTC
 
 
 ## Theorem
 
-## Papers (352)
+## Papers (353)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -386,6 +386,7 @@ October 27, 2025 at 01:24:49 AM UTC
 - [A Rapid Physics-Informed Machine Learning Framework Based on Extreme Learning Machine for Inverse Stefan Problems](https://arxiv.org/abs/2510.21426)
 - [A discrete physics-informed training for projection-based reduced order models with neural networks](https://arxiv.org/abs/2504.13875)
 - [PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling](https://arxiv.org/abs/2510.21262)
+- [RGC: a radio AGN classifier based on deep learning. I. A semi-supervised model for the VLA images of bent radio AGNs](https://arxiv.org/abs/2510.22190)
 
 
 ## Library
