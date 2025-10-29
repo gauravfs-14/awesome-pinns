@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 28, 2025 at 01:17:21 AM UTC
+October 29, 2025 at 01:22:47 AM UTC
 
 
 ## Theorem
 
-## Papers (353)
+## Papers (358)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -387,6 +387,11 @@ October 28, 2025 at 01:17:21 AM UTC
 - [A discrete physics-informed training for projection-based reduced order models with neural networks](https://arxiv.org/abs/2504.13875)
 - [PINN Balls: Scaling Second-Order Methods for PINNs with Domain Decomposition and Adaptive Sampling](https://arxiv.org/abs/2510.21262)
 - [RGC: a radio AGN classifier based on deep learning. I. A semi-supervised model for the VLA images of bent radio AGNs](https://arxiv.org/abs/2510.22190)
+- [Efficient Global-Local Fusion Sampling for Physics-Informed Neural Networks](https://arxiv.org/abs/2510.24026)
+- [Seeing Structural Failure Before it Happens: An Image-Based Physics-Informed Neural Network (PINN) for Spaghetti Bridge Load Prediction](https://arxiv.org/abs/2510.23117)
+- [Learning Robust Satellite Attitude Dynamics with Physics-Informed Normalising Flow](https://arxiv.org/abs/2508.07841)
+- [Self-induced stochastic resonance: A physics-informed machine learning approach](https://arxiv.org/abs/2510.22848)
+- [A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](https://arxiv.org/abs/2510.22809)
 
 
 ## Library
