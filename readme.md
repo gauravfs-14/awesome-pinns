@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 29, 2025 at 01:22:47 AM UTC
+October 30, 2025 at 01:22:17 AM UTC
 
 
 ## Theorem
 
-## Papers (358)
+## Papers (363)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -392,6 +392,11 @@ October 29, 2025 at 01:22:47 AM UTC
 - [Learning Robust Satellite Attitude Dynamics with Physics-Informed Normalising Flow](https://arxiv.org/abs/2508.07841)
 - [Self-induced stochastic resonance: A physics-informed machine learning approach](https://arxiv.org/abs/2510.22848)
 - [A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](https://arxiv.org/abs/2510.22809)
+- [Graph Network-based Structural Simulator: Graph Neural Networks for Structural Dynamics](https://arxiv.org/abs/2510.25683)
+- [Leveraging an Atmospheric Foundational Model for Subregional Sea Surface Temperature Forecasting](https://arxiv.org/abs/2510.25563)
+- [Position: Biology is the Challenge Physics-Informed ML Needs to Evolve](https://arxiv.org/abs/2510.25368)
+- [Physics-Informed Latent Neural Operator for Real-time Predictions of time-dependent parametric PDEs](https://arxiv.org/abs/2501.08428)
+- [Enforcing boundary conditions for physics-informed neural operators](https://arxiv.org/abs/2510.24557)
 
 
 ## Library
