@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 30, 2025 at 01:22:17 AM UTC
+October 31, 2025 at 01:19:34 AM UTC
 
 
 ## Theorem
 
-## Papers (363)
+## Papers (367)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -397,6 +397,10 @@ October 30, 2025 at 01:22:17 AM UTC
 - [Position: Biology is the Challenge Physics-Informed ML Needs to Evolve](https://arxiv.org/abs/2510.25368)
 - [Physics-Informed Latent Neural Operator for Real-time Predictions of time-dependent parametric PDEs](https://arxiv.org/abs/2501.08428)
 - [Enforcing boundary conditions for physics-informed neural operators](https://arxiv.org/abs/2510.24557)
+- [Uncertainty-Aware Diagnostics for Physics-Informed Machine Learning](https://arxiv.org/abs/2510.26121)
+- [Meshless solutions of PDE inverse problems on irregular geometries](https://arxiv.org/abs/2510.25752)
+- [LieSolver: A PDE-constrained solver for IBVPs using Lie symmetries](https://arxiv.org/abs/2510.25731)
+- [A Practitioner's Guide to Kolmogorov-Arnold Networks](https://arxiv.org/abs/2510.25781)
 
 
 ## Library
