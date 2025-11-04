@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 3, 2025 at 01:23:15 AM UTC
+November 4, 2025 at 01:20:24 AM UTC
 
 
 ## Theorem
 
-## Papers (367)
+## Papers (371)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -401,6 +401,10 @@ November 3, 2025 at 01:23:15 AM UTC
 - [Meshless solutions of PDE inverse problems on irregular geometries](https://arxiv.org/abs/2510.25752)
 - [LieSolver: A PDE-constrained solver for IBVPs using Lie symmetries](https://arxiv.org/abs/2510.25731)
 - [A Practitioner's Guide to Kolmogorov-Arnold Networks](https://arxiv.org/abs/2510.25781)
+- [TrajectoryFlowNet: Lagrangian-Eulerian learning of flow field and trajectories](https://arxiv.org/abs/2507.09621)
+- [A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees](https://arxiv.org/abs/2502.04799)
+- [Solving Infinite-Horizon Optimal Control Problems using the Extreme Theory of Functional Connections](https://arxiv.org/abs/2510.27187)
+- [Domain decomposition architectures and Gauss-Newton training for physics-informed neural networks](https://arxiv.org/abs/2510.27018)
 
 
 ## Library
