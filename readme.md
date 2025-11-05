@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 4, 2025 at 01:20:24 AM UTC
+November 5, 2025 at 01:21:33 AM UTC
 
 
 ## Theorem
 
-## Papers (371)
+## Papers (376)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -405,6 +405,11 @@ November 4, 2025 at 01:20:24 AM UTC
 - [A Regularized Newton Method for Nonconvex Optimization with Global and Local Complexity Guarantees](https://arxiv.org/abs/2502.04799)
 - [Solving Infinite-Horizon Optimal Control Problems using the Extreme Theory of Functional Connections](https://arxiv.org/abs/2510.27187)
 - [Domain decomposition architectures and Gauss-Newton training for physics-informed neural networks](https://arxiv.org/abs/2510.27018)
+- [Defining Energy Indicators for Impact Identification on Aerospace Composites: A Physics-Informed Machine Learning Perspective](https://arxiv.org/abs/2511.01592)
+- [HEATNETs: Explainable Random Feature Neural Networks for High-Dimensional Parabolic PDEs](https://arxiv.org/abs/2511.00886)
+- [Fast PINN Eigensolvers via Biconvex Reformulation](https://arxiv.org/abs/2511.00792)
+- [Structure-Preserving Physics-Informed Neural Network for the Korteweg--de Vries (KdV) Equation](https://arxiv.org/abs/2511.00418)
+- [Physics-Informed Neural Network Frameworks for the Analysis of Engineering and Biological Dynamical Systems Governed by Ordinary Differential Equations](https://arxiv.org/abs/2511.00043)
 
 
 ## Library
