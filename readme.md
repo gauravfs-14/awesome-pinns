@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 11, 2025 at 01:21:44 AM UTC
+November 13, 2025 at 01:21:49 AM UTC
 
 
 ## Theorem
 
-## Papers (382)
+## Papers (396)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -416,6 +416,20 @@ November 11, 2025 at 01:21:44 AM UTC
 - [Computed Tomography (CT)-derived Cardiovascular Flow Estimation Using Physics-Informed Neural Networks Improves with Sinogram-based Training: A Simulation Study](https://arxiv.org/abs/2511.03876)
 - [Self-adaptive weighting and sampling for physics-informed neural networks](https://arxiv.org/abs/2511.05452)
 - [Fuzzy Neural Network Performance and Interpretability of Quantum Wavefunction Probability Predictions](https://arxiv.org/abs/2511.05261)
+- [Physics-Informed Neural Operators for Cardiac Electrophysiology](https://arxiv.org/abs/2511.08418)
+- [Fill the gaps: continuous in time interpolation of fluid dynamical simulations](https://arxiv.org/abs/2511.08239)
+- [Intelligent Optimization of Multi-Parameter Micromixers Using a Scientific Machine Learning Framework](https://arxiv.org/abs/2511.07702)
+- [Physics-informed deep learning and compressive collocation for high-dimensional diffusion-reaction equations: practical existence theory and numerics](https://arxiv.org/abs/2406.01539)
+- [Statistical learning on randomized data to verify quantum state approximate k-designs](https://arxiv.org/abs/2305.01465)
+- [From LIF to QIF: Toward Differentiable Spiking Neurons for Scientific Machine Learning](https://arxiv.org/abs/2511.06614)
+- [Automated machine learning for physics-informed convolutional neural networks](https://arxiv.org/abs/2407.06151)
+- [Learning Biomolecular Motion: The Physics-Informed Machine Learning Paradigm](https://arxiv.org/abs/2511.06585)
+- [Deeper or Wider: A Perspective from Optimal Generalization Error with Sobolev Loss](https://arxiv.org/abs/2402.00152)
+- [Seismic inversion using hybrid quantum neural networks](https://arxiv.org/abs/2503.05009)
+- [NeuroPINNs: Neuroscience Inspired Physics Informed Neural Networks](https://arxiv.org/abs/2511.06081)
+- [Physics-Informed Design of Input Convex Neural Networks for Consistency Optimal Transport Flow Matching](https://arxiv.org/abs/2511.06042)
+- [Physics-Informed Neural Networks for Real-Time Gas Crossover Prediction in PEM Electrolyzers: First Application with Multi-Membrane Validation](https://arxiv.org/abs/2511.05879)
+- [SSTODE: Ocean-Atmosphere Physics-Informed Neural ODEs for Sea Surface Temperature Prediction](https://arxiv.org/abs/2511.05629)
 
 
 ## Library
