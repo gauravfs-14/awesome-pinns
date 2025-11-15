@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 13, 2025 at 01:21:49 AM UTC
+November 15, 2025 at 01:18:53 AM UTC
 
 
 ## Theorem
 
-## Papers (396)
+## Papers (404)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -430,6 +430,14 @@ November 13, 2025 at 01:21:49 AM UTC
 - [Physics-Informed Design of Input Convex Neural Networks for Consistency Optimal Transport Flow Matching](https://arxiv.org/abs/2511.06042)
 - [Physics-Informed Neural Networks for Real-Time Gas Crossover Prediction in PEM Electrolyzers: First Application with Multi-Membrane Validation](https://arxiv.org/abs/2511.05879)
 - [SSTODE: Ocean-Atmosphere Physics-Informed Neural ODEs for Sea Surface Temperature Prediction](https://arxiv.org/abs/2511.05629)
+- [MATAI: A Generalist Machine Learning Framework for Property Prediction and Inverse Design of Advanced Alloys](https://arxiv.org/abs/2511.10108)
+- [E-PINNs: Epistemic Physics-Informed Neural Networks](https://arxiv.org/abs/2503.19333)
+- [Towards a Machine Learning Solution for Hubble Tension: Physics-Informed Neural Network (PINN) Analysis of Tsallis Holographic Dark Energy in Presence of Neutrinos](https://arxiv.org/abs/2511.09706)
+- [Physics-Informed Neural Networks for Gate Design using Quantum Optimal Control](https://arxiv.org/abs/2511.09463)
+- [Guaranteeing Conservation of Integrals with Projection in Physics-Informed Neural Networks](https://arxiv.org/abs/2511.09048)
+- [Quantum physics informed neural networks for multi-variable partial differential equations](https://arxiv.org/abs/2503.12244)
+- [Integration Matters for Learning PDEs with Backwards SDEs](https://arxiv.org/abs/2505.01078)
+- [Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery](https://arxiv.org/abs/2507.08977)
 
 
 ## Library
