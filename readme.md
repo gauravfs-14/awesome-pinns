@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 18, 2025 at 01:21:00 AM UTC
+November 19, 2025 at 01:20:37 AM UTC
 
 
 ## Theorem
 
-## Papers (406)
+## Papers (412)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -440,6 +440,12 @@ November 18, 2025 at 01:21:00 AM UTC
 - [Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery](https://arxiv.org/abs/2507.08977)
 - [One-Shot Transfer Learning for Nonlinear PDEs with Perturbative PINNs](https://arxiv.org/abs/2511.11137)
 - [PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI](https://arxiv.org/abs/2511.11048)
+- [Uncertainty-aware Physics-informed Neural Networks for Robust CARS-to-Raman Signal Reconstruction](https://arxiv.org/abs/2511.13185)
+- [Real-time distortion prediction in metallic additive manufacturing via a physics-informed neural operator approach](https://arxiv.org/abs/2511.13178)
+- [Physics-Constrained Adaptive Neural Networks Enable Real-Time Semiconductor Manufacturing Optimization with Minimal Training Data](https://arxiv.org/abs/2511.12788)
+- [Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance](https://arxiv.org/abs/2511.12443)
+- [Real-Time Physics-Aware Battery Health Monitoring from Partial Charging Profiles via Physics-Informed Neural Networks](https://arxiv.org/abs/2511.12053)
+- [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662)
 
 
 ## Library
