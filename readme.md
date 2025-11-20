@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 19, 2025 at 01:20:37 AM UTC
+November 20, 2025 at 01:19:20 AM UTC
 
 
 ## Theorem
 
-## Papers (412)
+## Papers (415)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -446,6 +446,9 @@ November 19, 2025 at 01:20:37 AM UTC
 - [Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance](https://arxiv.org/abs/2511.12443)
 - [Real-Time Physics-Aware Battery Health Monitoring from Partial Charging Profiles via Physics-Informed Neural Networks](https://arxiv.org/abs/2511.12053)
 - [Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems](https://arxiv.org/abs/2406.19662)
+- [Enforcing hidden physics in physics-informed neural networks](https://arxiv.org/abs/2511.14348)
+- [Flood-LDM: Generalizable Latent Diffusion Models for rapid and accurate zero-shot High-Resolution Flood Mapping](https://arxiv.org/abs/2511.14033)
+- [Extended Physics Informed Neural Network for Hyperbolic Two-Phase Flow in Porous Media](https://arxiv.org/abs/2511.13734)
 
 
 ## Library
