@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 20, 2025 at 01:19:20 AM UTC
+November 21, 2025 at 01:20:33 AM UTC
 
 
 ## Theorem
 
-## Papers (415)
+## Papers (420)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -449,6 +449,11 @@ November 20, 2025 at 01:19:20 AM UTC
 - [Enforcing hidden physics in physics-informed neural networks](https://arxiv.org/abs/2511.14348)
 - [Flood-LDM: Generalizable Latent Diffusion Models for rapid and accurate zero-shot High-Resolution Flood Mapping](https://arxiv.org/abs/2511.14033)
 - [Extended Physics Informed Neural Network for Hyperbolic Two-Phase Flow in Porous Media](https://arxiv.org/abs/2511.13734)
+- [A Physics Informed Machine Learning Framework for Optimal Sensor Placement and Parameter Estimation](https://arxiv.org/abs/2511.15543)
+- [Convergence and Sketching-Based Efficient Computation of Neural Tangent Kernel Weights in Physics-Based Loss](https://arxiv.org/abs/2511.15530)
+- [Neural network-driven domain decomposition for efficient solutions to the Helmholtz equation](https://arxiv.org/abs/2511.15445)
+- [Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets](https://arxiv.org/abs/2511.15222)
+- [ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling](https://arxiv.org/abs/2505.09851)
 
 
 ## Library
