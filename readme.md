@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 21, 2025 at 01:20:33 AM UTC
+November 22, 2025 at 01:17:39 AM UTC
 
 
 ## Theorem
 
-## Papers (420)
+## Papers (421)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -454,6 +454,7 @@ November 21, 2025 at 01:20:33 AM UTC
 - [Neural network-driven domain decomposition for efficient solutions to the Helmholtz equation](https://arxiv.org/abs/2511.15445)
 - [Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets](https://arxiv.org/abs/2511.15222)
 - [ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling](https://arxiv.org/abs/2505.09851)
+- [The Ensemble Kalman Inversion Race](https://arxiv.org/abs/2511.15853)
 
 
 ## Library
