@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 25, 2025 at 01:21:06 AM UTC
+November 26, 2025 at 01:21:27 AM UTC
 
 
 ## Theorem
 
-## Papers (421)
+## Papers (425)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -455,6 +455,10 @@ November 25, 2025 at 01:21:06 AM UTC
 - [Why Physics Still Matters: Improving Machine Learning Prediction of Material Properties with Phonon-Informed Datasets](https://arxiv.org/abs/2511.15222)
 - [ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling](https://arxiv.org/abs/2505.09851)
 - [The Ensemble Kalman Inversion Race](https://arxiv.org/abs/2511.15853)
+- [Performance Guarantees for Quantum Neural Estimation of Entropies](https://arxiv.org/abs/2511.19289)
+- [RRaPINNs: Residual Risk-Aware Physics Informed Neural Networks](https://arxiv.org/abs/2511.18515)
+- [Adapting Physics-Informed Neural Networks for Bifurcation Detection in Ecological Migration Models](https://arxiv.org/abs/2409.00651)
+- [PINNsFailureRegion Localization and Refinement through White-box AdversarialAttack](https://arxiv.org/abs/2310.11789)
 
 
 ## Library
