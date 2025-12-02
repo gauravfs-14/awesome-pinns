@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 1, 2025 at 01:46:05 AM UTC
+December 2, 2025 at 01:23:06 AM UTC
 
 
 ## Theorem
 
-## Papers (428)
+## Papers (436)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -462,6 +462,14 @@ December 1, 2025 at 01:46:05 AM UTC
 - [A Physics-Informed Loss Function for Boundary-Consistent and Robust Artery Segmentation in DSA Sequences](https://arxiv.org/abs/2511.20501)
 - [Solving Heterogeneous Agent Models with Physics-informed Neural Networks](https://arxiv.org/abs/2511.20283)
 - [A Physics-Informed U-net-LSTM Network for Data-Driven Seismic Response Modeling of Structures](https://arxiv.org/abs/2511.21276)
+- [Physics-Informed Neural Networks for Thermophysical Property Retrieval](https://arxiv.org/abs/2511.23449)
+- [Hard-Constrained Neural Networks with Physics-Embedded Architecture for Residual Dynamics Learning and Invariant Enforcement in Cyber-Physical Systems](https://arxiv.org/abs/2511.23307)
+- [FP64 is All You Need: Rethinking Failure Modes in Physics-Informed Neural Networks](https://arxiv.org/abs/2505.10949)
+- [Ga_2_2O_3_3 TCAD Mobility Parameter Calibration using Simulation Augmented Machine Learning with Physics Informed Neural Network](https://arxiv.org/abs/2504.02283)
+- [GSpaRC: Gaussian Splatting for Real-time Reconstruction of RF Channels](https://arxiv.org/abs/2511.22793)
+- [AdS/Deep-Learning made easy II: neural network-based approaches to holography and inverse problems](https://arxiv.org/abs/2511.22522)
+- [Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning](https://arxiv.org/abs/2511.21900)
+- [Physics-Informed Spiking Neural Networks via Conservative Flux Quantization](https://arxiv.org/abs/2511.21784)
 
 
 ## Library
