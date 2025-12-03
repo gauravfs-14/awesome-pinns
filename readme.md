@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 2, 2025 at 01:23:06 AM UTC
+December 3, 2025 at 01:23:15 AM UTC
 
 
 ## Theorem
 
-## Papers (436)
+## Papers (439)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -470,6 +470,9 @@ December 2, 2025 at 01:23:06 AM UTC
 - [AdS/Deep-Learning made easy II: neural network-based approaches to holography and inverse problems](https://arxiv.org/abs/2511.22522)
 - [Beyond Atoms: Evaluating Electron Density Representation for 3D Molecular Learning](https://arxiv.org/abs/2511.21900)
 - [Physics-Informed Spiking Neural Networks via Conservative Flux Quantization](https://arxiv.org/abs/2511.21784)
+- [Learning to Reconstruct: A Differentiable Approach to Muon Tracking at the LHC](https://arxiv.org/abs/2512.01647)
+- [Forecasting India's Demographic Transition Under Fertility Policy Scenarios Using hybrid LSTM-PINN Model](https://arxiv.org/abs/2512.00760)
+- [Finite Operator Learning: Bridging Neural Operators and Numerical Methods for Efficient Parametric Solution and Optimization of PDEs](https://arxiv.org/abs/2407.04157)
 
 
 ## Library
