@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 3, 2025 at 01:23:15 AM UTC
+December 4, 2025 at 01:23:13 AM UTC
 
 
 ## Theorem
 
-## Papers (439)
+## Papers (442)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -473,6 +473,9 @@ December 3, 2025 at 01:23:15 AM UTC
 - [Learning to Reconstruct: A Differentiable Approach to Muon Tracking at the LHC](https://arxiv.org/abs/2512.01647)
 - [Forecasting India's Demographic Transition Under Fertility Policy Scenarios Using hybrid LSTM-PINN Model](https://arxiv.org/abs/2512.00760)
 - [Finite Operator Learning: Bridging Neural Operators and Numerical Methods for Efficient Parametric Solution and Optimization of PDEs](https://arxiv.org/abs/2407.04157)
+- [Time-series forecasting with multiphoton quantum states and integrated photonics](https://arxiv.org/abs/2512.02928)
+- [Modeling and Inverse Identification of Interfacial Heat Conduction in Finite Layer and Semi-Infinite Substrate Systems via a Physics-Guided Neural Framework](https://arxiv.org/abs/2512.02618)
+- [Bayesian Physics-Informed Neural Networks for Inverse Problems (BPINN-IP): Application in Infrared Image Processing](https://arxiv.org/abs/2512.02495)
 
 
 ## Library
