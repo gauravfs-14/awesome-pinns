@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 4, 2025 at 01:23:13 AM UTC
+December 5, 2025 at 01:23:41 AM UTC
 
 
 ## Theorem
 
-## Papers (442)
+## Papers (448)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -476,6 +476,12 @@ December 4, 2025 at 01:23:13 AM UTC
 - [Time-series forecasting with multiphoton quantum states and integrated photonics](https://arxiv.org/abs/2512.02928)
 - [Modeling and Inverse Identification of Interfacial Heat Conduction in Finite Layer and Semi-Infinite Substrate Systems via a Physics-Guided Neural Framework](https://arxiv.org/abs/2512.02618)
 - [Bayesian Physics-Informed Neural Networks for Inverse Problems (BPINN-IP): Application in Infrared Image Processing](https://arxiv.org/abs/2512.02495)
+- [Quantum-Classical Physics-Informed Neural Networks for Solving Reservoir Seepage Equations](https://arxiv.org/abs/2512.03923)
+- [Fault-Tolerant Control of Steam Temperature in HRSG Superheater under Actuator Fault Using a Sliding Mode Observer and PINN](https://arxiv.org/abs/2512.03846)
+- [Why Rectified Power Unit Networks Fail and How to Improve It: An Effective Field Theory Perspective](https://arxiv.org/abs/2408.02697)
+- [Learning Fluid-Structure Interaction with Physics-Informed Machine Learning and Immersed Boundary Methods](https://arxiv.org/abs/2505.18565)
+- [ASPEN: An Adaptive Spectral Physics-Enabled Network for Ginzburg-Landau Dynamics](https://arxiv.org/abs/2512.03290)
+- [Physics-informed self-supervised learning for predictive modeling of coronary artery digital twins](https://arxiv.org/abs/2512.03055)
 
 
 ## Library
