@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 9, 2025 at 01:23:12 AM UTC
+December 10, 2025 at 01:24:56 AM UTC
 
 
 ## Theorem
 
-## Papers (452)
+## Papers (458)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -486,6 +486,12 @@ December 9, 2025 at 01:23:12 AM UTC
 - [xLSTM-PINN: Memory-Gated Spectral Remodeling for Physics-Informed Learning](https://arxiv.org/abs/2511.12512)
 - [A Control Perspective on Training PINNs](https://arxiv.org/abs/2501.18582)
 - [Hardware-inspired Continuous Variables Quantum Optical Neural Networks](https://arxiv.org/abs/2512.05204)
+- [Physics-Informed Neural Networks for Source Inversion and Parameters Estimation in Atmospheric Dispersion](https://arxiv.org/abs/2512.07755)
+- [Boosting probes of CP violation in the top Yukawa coupling with Deep Learning](https://arxiv.org/abs/2405.16499)
+- [PIMRL: Physics-Informed Multi-Scale Recurrent Learning for Spatiotemporal Prediction](https://arxiv.org/abs/2503.10253)
+- [Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695)
+- [A new initialisation to Control Gradients in Sinusoidal Neural network](https://arxiv.org/abs/2512.06427)
+- [Data-Driven Model for Elastomers under Simultaneous Thermal and Radiation Exposure](https://arxiv.org/abs/2512.05978)
 
 
 ## Library
