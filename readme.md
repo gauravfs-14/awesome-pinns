@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 10, 2025 at 01:24:56 AM UTC
+December 11, 2025 at 01:25:50 AM UTC
 
 
 ## Theorem
 
-## Papers (458)
+## Papers (460)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -492,6 +492,8 @@ December 10, 2025 at 01:24:56 AM UTC
 - [Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems](https://arxiv.org/abs/2508.15695)
 - [A new initialisation to Control Gradients in Sinusoidal Neural network](https://arxiv.org/abs/2512.06427)
 - [Data-Driven Model for Elastomers under Simultaneous Thermal and Radiation Exposure](https://arxiv.org/abs/2512.05978)
+- [PyMieDiff: A differentiable Mie scattering library](https://arxiv.org/abs/2512.08614)
+- [Wavelet-Accelerated Physics-Informed Quantum Neural Network for Multiscale Partial Differential Equations](https://arxiv.org/abs/2512.08256)
 
 
 ## Library
