@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 11, 2025 at 01:25:50 AM UTC
+December 12, 2025 at 01:25:28 AM UTC
 
 
 ## Theorem
 
-## Papers (460)
+## Papers (463)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -494,6 +494,9 @@ December 11, 2025 at 01:25:50 AM UTC
 - [Data-Driven Model for Elastomers under Simultaneous Thermal and Radiation Exposure](https://arxiv.org/abs/2512.05978)
 - [PyMieDiff: A differentiable Mie scattering library](https://arxiv.org/abs/2512.08614)
 - [Wavelet-Accelerated Physics-Informed Quantum Neural Network for Multiscale Partial Differential Equations](https://arxiv.org/abs/2512.08256)
+- [On Parameter Identification in Three-Dimensional Elasticity and Discretisation with Physics-Informed Neural Networks](https://arxiv.org/abs/2512.09754)
+- [Point Neuron Learning: A New Physics-Informed Neural Network Architecture](https://arxiv.org/abs/2408.16969)
+- [Tensor-Compressed and Fully-Quantized Training of Neural PDE Solvers](https://arxiv.org/abs/2512.09202)
 
 
 ## Library
