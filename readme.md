@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 15, 2025 at 01:27:54 AM UTC
+December 16, 2025 at 01:26:22 AM UTC
 
 
 ## Theorem
 
-## Papers (464)
+## Papers (469)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -498,6 +498,11 @@ December 15, 2025 at 01:27:54 AM UTC
 - [Point Neuron Learning: A New Physics-Informed Neural Network Architecture](https://arxiv.org/abs/2408.16969)
 - [Tensor-Compressed and Fully-Quantized Training of Neural PDE Solvers](https://arxiv.org/abs/2512.09202)
 - [A Kernel-based Resource-efficient Neural Surrogate for Multi-fidelity Prediction of Aerodynamic Field](https://arxiv.org/abs/2512.10287)
+- [The Adaptive Vekua Cascade: A Differentiable Spectral-Analytic Solver for Physics-Informed Representation](https://arxiv.org/abs/2512.11776)
+- [iPINNER: An Iterative Physics-Informed Neural Network with Ensemble Kalman Filter](https://arxiv.org/abs/2506.00731)
+- [On the failure of ReLU activation for physics-informed machine learning](https://arxiv.org/abs/2512.11184)
+- [The Vekua Layer: Exact Physical Priors for Implicit Neural Representations via Generalized Analytic Functions](https://arxiv.org/abs/2512.11138)
+- [Refining Graphical Neural Network Predictions Using Flow Matching for Optimal Power Flow with Constraint-Satisfaction Guarantee](https://arxiv.org/abs/2512.11127)
 
 
 ## Library
