@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 16, 2025 at 01:26:22 AM UTC
+December 17, 2025 at 01:21:36 AM UTC
 
 
 ## Theorem
 
-## Papers (469)
+## Papers (478)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -503,6 +503,15 @@ December 16, 2025 at 01:26:22 AM UTC
 - [On the failure of ReLU activation for physics-informed machine learning](https://arxiv.org/abs/2512.11184)
 - [The Vekua Layer: Exact Physical Priors for Implicit Neural Representations via Generalized Analytic Functions](https://arxiv.org/abs/2512.11138)
 - [Refining Graphical Neural Network Predictions Using Flow Matching for Optimal Power Flow with Constraint-Satisfaction Guarantee](https://arxiv.org/abs/2512.11127)
+- [KD-PINN: Knowledge-Distilled PINNs for ultra-low-latency real-time neural PDE solvers](https://arxiv.org/abs/2512.13336)
+- [Rethinking Physics-Informed Regression Beyond Training Loops and Bespoke Architectures](https://arxiv.org/abs/2512.13217)
+- [Physics-informed Modularized Neural Network for Advanced Building Control by Deep Reinforcement Learning](https://arxiv.org/abs/2504.05397)
+- [Autoregressive Neural Network Extrapolation of Quantum Spin Dynamics Across Time and Space](https://arxiv.org/abs/2512.13103)
+- [A Physics-Embedded Dual-Learning Imaging Framework for Electrical Impedance Tomography](https://arxiv.org/abs/2412.17827)
+- [Neural equilibria for long-term prediction of nonlinear conservation laws](https://arxiv.org/abs/2501.06933)
+- [Multi-Trajectory Physics-Informed Neural Networks for HJB Equations with Hard-Zero Terminal Inventory: Optimal Execution on Synthetic & SPY Data](https://arxiv.org/abs/2512.12708)
+- [AGN X-ray Reflection Spectroscopy with ML MYTORUS:Neural Posterior Estimation with Training on Observation-Driven Parameter Grids](https://arxiv.org/abs/2512.12155)
+- [Physics-informed neural networks to solve inverse problems in unbounded domains](https://arxiv.org/abs/2512.12074)
 
 
 ## Library
