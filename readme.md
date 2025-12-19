@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 18, 2025 at 01:22:06 AM UTC
+December 19, 2025 at 01:25:29 AM UTC
 
 
 ## Theorem
 
-## Papers (478)
+## Papers (480)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -512,6 +512,8 @@ December 18, 2025 at 01:22:06 AM UTC
 - [Multi-Trajectory Physics-Informed Neural Networks for HJB Equations with Hard-Zero Terminal Inventory: Optimal Execution on Synthetic & SPY Data](https://arxiv.org/abs/2512.12708)
 - [AGN X-ray Reflection Spectroscopy with ML MYTORUS:Neural Posterior Estimation with Training on Observation-Driven Parameter Grids](https://arxiv.org/abs/2512.12155)
 - [Physics-informed neural networks to solve inverse problems in unbounded domains](https://arxiv.org/abs/2512.12074)
+- [Boundary condition enforcement with PINNs: a comparative study and verification on 3D geometries](https://arxiv.org/abs/2512.14941)
+- [A Roadmap for Applying Graph Neural Networks to Numerical Data: Insights from Cementitious Materials](https://arxiv.org/abs/2512.14855)
 
 
 ## Library
