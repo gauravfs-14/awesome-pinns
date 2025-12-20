@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 19, 2025 at 01:25:29 AM UTC
+December 20, 2025 at 01:21:14 AM UTC
 
 
 ## Theorem
 
-## Papers (480)
+## Papers (483)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -514,6 +514,9 @@ December 19, 2025 at 01:25:29 AM UTC
 - [Physics-informed neural networks to solve inverse problems in unbounded domains](https://arxiv.org/abs/2512.12074)
 - [Boundary condition enforcement with PINNs: a comparative study and verification on 3D geometries](https://arxiv.org/abs/2512.14941)
 - [A Roadmap for Applying Graph Neural Networks to Numerical Data: Insights from Cementitious Materials](https://arxiv.org/abs/2512.14855)
+- [CARONTE: a Physics-Informed Extreme Learning Machine-Based Algorithm for Plasma Boundary Reconstruction in Magnetically Confined Fusion Devices](https://arxiv.org/abs/2512.16689)
+- [Physics-Informed Neural Networks for Modeling the Martian Induced Magnetosphere](https://arxiv.org/abs/2512.16175)
+- [TENG++: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets under General Boundary Conditions](https://arxiv.org/abs/2512.15771)
 
 
 ## Library
