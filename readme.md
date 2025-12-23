@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 22, 2025 at 01:38:57 AM UTC
+December 23, 2025 at 01:25:32 AM UTC
 
 
 ## Theorem
 
-## Papers (483)
+## Papers (485)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -517,6 +517,8 @@ December 22, 2025 at 01:38:57 AM UTC
 - [CARONTE: a Physics-Informed Extreme Learning Machine-Based Algorithm for Plasma Boundary Reconstruction in Magnetically Confined Fusion Devices](https://arxiv.org/abs/2512.16689)
 - [Physics-Informed Neural Networks for Modeling the Martian Induced Magnetosphere](https://arxiv.org/abs/2512.16175)
 - [TENG++: Time-Evolving Natural Gradient for Solving PDEs With Deep Neural Nets under General Boundary Conditions](https://arxiv.org/abs/2512.15771)
+- [More Consistent Accuracy PINN via Alternating Easy-Hard Training](https://arxiv.org/abs/2512.17607)
+- [BumpNet: A Sparse Neural Network Framework for Learning PDE Solutions](https://arxiv.org/abs/2512.17198)
 
 
 ## Library
