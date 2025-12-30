@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 29, 2025 at 01:42:41 AM UTC
+December 30, 2025 at 01:25:58 AM UTC
 
 
 ## Theorem
 
-## Papers (489)
+## Papers (491)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -523,6 +523,8 @@ December 29, 2025 at 01:42:41 AM UTC
 - [Self-Consistent Probability Flow for High-Dimensional Fokker-Planck Equations](https://arxiv.org/abs/2512.19196)
 - [Microstructure-based Variational Neural Networks for Robust Uncertainty Quantification in Materials Digital Twins](https://arxiv.org/abs/2512.18104)
 - [GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface](https://arxiv.org/abs/2512.20813)
+- [MAD-NG: Meta-Auto-Decoder Neural Galerkin Method for Solving Parametric Partial Differential Equations](https://arxiv.org/abs/2512.21633)
+- [Physics-Informed Neural Solvers for Periodic Quantum Eigenproblems](https://arxiv.org/abs/2512.21349)
 
 
 ## Library
