@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-December 30, 2025 at 01:25:58 AM UTC
+December 31, 2025 at 01:27:08 AM UTC
 
 
 ## Theorem
 
-## Papers (491)
+## Papers (500)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -525,6 +525,15 @@ December 30, 2025 at 01:25:58 AM UTC
 - [GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface](https://arxiv.org/abs/2512.20813)
 - [MAD-NG: Meta-Auto-Decoder Neural Galerkin Method for Solving Parametric Partial Differential Equations](https://arxiv.org/abs/2512.21633)
 - [Physics-Informed Neural Solvers for Periodic Quantum Eigenproblems](https://arxiv.org/abs/2512.21349)
+- [Neural Measures for learning distributions of Random PDEs](https://arxiv.org/abs/2507.01687)
+- [Adaptive Probability Flow Residual Minimization for High-Dimensional Fokker-Planck Equations](https://arxiv.org/abs/2512.19196)
+- [Spectral Analysis of Hard-Constraint PINNs: The Spatial Modulation Mechanism of Boundary Functions](https://arxiv.org/abs/2512.23295)
+- [Differentiable Inverse Modeling with Physics-Constrained Latent Diffusion for Heterogeneous Subsurface Parameter Fields](https://arxiv.org/abs/2512.22421)
+- [PHANTOM: Physics-Aware Adversarial Attacks against Federated Learning-Coordinated EV Charging Management System](https://arxiv.org/abs/2512.22381)
+- [DBAW-PIKAN: Dynamic Balance Adaptive Weight Kolmogorov-Arnold Neural Network for Solving Partial Differential Equations](https://arxiv.org/abs/2512.22283)
+- [Müntz-Szász Networks: Neural Architectures with Learnable Power-Law Bases](https://arxiv.org/abs/2512.22222)
+- [Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part I: Basic Concepts, Neural Networks, and Variants](https://arxiv.org/abs/2512.22190)
+- [Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification](https://arxiv.org/abs/2512.22189)
 
 
 ## Library
