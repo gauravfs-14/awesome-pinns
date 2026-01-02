@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 1, 2026 at 01:44:50 AM UTC
+January 2, 2026 at 01:27:55 AM UTC
 
 
 ## Theorem
 
-## Papers (500)
+## Papers (507)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -534,6 +534,13 @@ January 1, 2026 at 01:44:50 AM UTC
 - [Müntz-Szász Networks: Neural Architectures with Learnable Power-Law Bases](https://arxiv.org/abs/2512.22222)
 - [Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part I: Basic Concepts, Neural Networks, and Variants](https://arxiv.org/abs/2512.22190)
 - [Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II: Physics-Informed Neural Networks and Uncertainty Quantification](https://arxiv.org/abs/2512.22189)
+- [Optical Spiking Neural Networks via Rogue-Wave Statistics](https://arxiv.org/abs/2512.24983)
+- [Soliton profiles: Classical Numerical Schemes vs. Neural Network - Based Solvers](https://arxiv.org/abs/2512.24634)
+- [Deep Learning in Geotechnical Engineering: A Critical Assessment of PINNs and Operator Learning](https://arxiv.org/abs/2512.24365)
+- [Micro-Macro Tensor Neural Surrogates for Uncertainty Quantification in Collisional Plasma](https://arxiv.org/abs/2512.24205)
+- [Physics-informed Graph Neural Networks for Operational Flood Modeling](https://arxiv.org/abs/2512.23964)
+- [Learning Density Functionals to Bridge Particle and Continuum Scales](https://arxiv.org/abs/2512.23840)
+- [Learning Coupled System Dynamics under Incomplete Physical Constraints and Missing Data](https://arxiv.org/abs/2512.23761)
 
 
 ## Library
