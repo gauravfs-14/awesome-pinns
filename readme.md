@@ -551,6 +551,11 @@ January 5, 2026 at 01:45:10 AM UTC
 
 ### Video Tutorials
 
+* [Physics Informed Neural Networks (PINNs) (Steve Brunton)](http://www.youtube.com/watch?v=-zrY7P2dVC4) — A comprehensive introduction to PINN architecture and its role in machine learning
+* [Machine Learning for Computational Fluid Dynamics (Steve Brunton)](http://www.youtube.com/watch?v=IXMSOSEj14Q) — Deep dive into using neural networks for scientific computing and fluid simulations
+* [Data-driven Model Discovery (Nathan Kutz)](http://www.youtube.com/watch?v=gUxBJU5n2Zs) — Explores targeted use of deep neural networks for advanced physics and engineering applications
+* [Accelerating FEM with ML (Legato Team)](http://www.youtube.com/watch?v=RqhHFB3YGsA) — Intro to Finite Element Neural Networks and how ML accelerates traditional physics modeling
+
 ## Contributing
 
 We welcome contributions to this repository! If you have a resource that you believe should be included, please submit a pull request or open an issue. Contributions can include:
