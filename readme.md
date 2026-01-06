@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 5, 2026 at 01:45:10 AM UTC
+January 6, 2026 at 01:27:43 AM UTC
 
 
 ## Theorem
 
-## Papers (507)
+## Papers (511)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -541,6 +541,10 @@ January 5, 2026 at 01:45:10 AM UTC
 - [Physics-informed Graph Neural Networks for Operational Flood Modeling](https://arxiv.org/abs/2512.23964)
 - [Learning Density Functionals to Bridge Particle and Continuum Scales](https://arxiv.org/abs/2512.23840)
 - [Learning Coupled System Dynamics under Incomplete Physical Constraints and Missing Data](https://arxiv.org/abs/2512.23761)
+- [Evolutionary Optimization of Physics-Informed Neural Networks: Advancing Generalizability by the Baldwin Effect](https://arxiv.org/abs/2312.03243)
+- [Solving nonlinear subsonic compressible flow in infinite domain via multi-stage neural networks](https://arxiv.org/abs/2601.00342)
+- [Additive general integral equations in thermoelastic micromechanics of composites](https://arxiv.org/abs/2601.00019)
+- [New RVE concept in thermoelasticity of periodic composites subjected to compact support loading](https://arxiv.org/abs/2601.00018)
 
 
 ## Library
