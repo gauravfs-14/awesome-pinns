@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 6, 2026 at 01:27:43 AM UTC
+January 7, 2026 at 01:27:55 AM UTC
 
 
 ## Theorem
 
-## Papers (511)
+## Papers (513)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -545,6 +545,8 @@ January 6, 2026 at 01:27:43 AM UTC
 - [Solving nonlinear subsonic compressible flow in infinite domain via multi-stage neural networks](https://arxiv.org/abs/2601.00342)
 - [Additive general integral equations in thermoelastic micromechanics of composites](https://arxiv.org/abs/2601.00019)
 - [New RVE concept in thermoelasticity of periodic composites subjected to compact support loading](https://arxiv.org/abs/2601.00018)
+- [A-PINN: Auxiliary Physics-informed Neural Networks for Structural Vibration Analysis in Continuous Euler-Bernoulli Beam](https://arxiv.org/abs/2601.00866)
+- [Intrinsic-Metric Physics-Informed Neural Networks (IM-PINN) for Reaction-Diffusion Dynamics on Complex Riemannian Manifolds](https://arxiv.org/abs/2601.00834)
 
 
 ## Library
