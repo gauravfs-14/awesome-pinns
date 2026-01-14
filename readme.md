@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 13, 2026 at 01:24:47 AM UTC
+January 14, 2026 at 01:40:59 AM UTC
 
 
 ## Theorem
 
-## Papers (520)
+## Papers (523)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -554,6 +554,9 @@ January 13, 2026 at 01:24:47 AM UTC
 - [Disentangling Aleatoric and Epistemic Uncertainty in Physics-Informed Neural Networks. Application to Insulation Material Degradation Prognostics](https://arxiv.org/abs/2601.03673)
 - [Physics-Based Decline Curve Analysis and Machine Learning for Temperature Forecasting in Enhanced Geothermal Systems: Utah FORGE](https://arxiv.org/abs/2601.03283)
 - [A Non Linear Spectral Graph Neural Network Simulator for More Stable and Accurate Rollouts](https://arxiv.org/abs/2601.05860)
+- [Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640)
+- [Unsteady flow predictions around an obstacle using Geometry-Parameterized Dual-Encoder Physics-Informed Neural Network](https://arxiv.org/abs/2601.06561)
+- [Building Envelope Inversion by Data-driven Interpretation of Ground Penetrating Radar](https://arxiv.org/abs/2601.06333)
 
 
 ## Library
