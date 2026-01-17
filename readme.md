@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 16, 2026 at 01:28:51 AM UTC
+January 17, 2026 at 01:24:59 AM UTC
 
 
 ## Theorem
 
-## Papers (526)
+## Papers (527)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -560,6 +560,7 @@ January 16, 2026 at 01:28:51 AM UTC
 - [Soft Partition-based KAPI-ELM for Multi-Scale PDEs](https://arxiv.org/abs/2601.08719)
 - [Multi-Preconditioned LBFGS for Training Finite-Basis PINNs](https://arxiv.org/abs/2601.08709)
 - [Integration Matters for Learning PDEs with Backward SDEs](https://arxiv.org/abs/2505.01078)
+- [SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks](https://arxiv.org/abs/2601.10282)
 
 
 ## Library
