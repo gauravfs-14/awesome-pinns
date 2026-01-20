@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 19, 2026 at 01:42:50 AM UTC
+January 20, 2026 at 01:27:59 AM UTC
 
 
 ## Theorem
 
-## Papers (527)
+## Papers (530)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -561,6 +561,9 @@ January 19, 2026 at 01:42:50 AM UTC
 - [Multi-Preconditioned LBFGS for Training Finite-Basis PINNs](https://arxiv.org/abs/2601.08709)
 - [Integration Matters for Learning PDEs with Backward SDEs](https://arxiv.org/abs/2505.01078)
 - [SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks](https://arxiv.org/abs/2601.10282)
+- [AC-PKAN: Attention-Enhanced and Chebyshev Polynomial-Based Physics-Informed Kolmogorov-Arnold Networks](https://arxiv.org/abs/2505.08687)
+- [U-PINet: Physics-Informed Hierarchical Learning for Radar Cross Section Prediction via 3D Electromagnetic Scattering Reconstruction](https://arxiv.org/abs/2508.03774)
+- [A Natural Primal-Dual Hybrid Gradient Method for Adversarial Neural Network Training on Solving Partial Differential Equations](https://arxiv.org/abs/2411.06278)
 
 
 ## Library
