@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 27, 2026 at 01:44:01 AM UTC
+January 28, 2026 at 01:40:33 AM UTC
 
 
 ## Theorem
 
-## Papers (541)
+## Papers (544)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -575,6 +575,9 @@ January 27, 2026 at 01:44:01 AM UTC
 - [Report for NSF Workshop on AI for Electronic Design Automation](https://arxiv.org/abs/2601.14541)
 - [Learning PDE Solvers with Physics and Data: A Unifying View of Physics-Informed Neural Networks and Neural Operators](https://arxiv.org/abs/2601.14517)
 - [GlueNN: gluing patchwise analytic solutions with neural networks](https://arxiv.org/abs/2601.05889)
+- [Data-Efficient Electromagnetic Surrogate Solver Through Dissipative Relaxation Transfer Learning](https://arxiv.org/abs/2601.18235)
+- [NewPINNs: Physics-Informing Neural Networks Using Conventional Solvers for Partial Differential Equations](https://arxiv.org/abs/2601.17207)
+- [PUNCH: Physics-informed Uncertainty-aware Network for Coronary Hemodynamics](https://arxiv.org/abs/2601.17192)
 
 
 ## Library
