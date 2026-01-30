@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-January 29, 2026 at 01:51:57 AM UTC
+January 30, 2026 at 01:52:56 AM UTC
 
 
 ## Theorem
 
-## Papers (545)
+## Papers (548)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -579,6 +579,9 @@ January 29, 2026 at 01:51:57 AM UTC
 - [NewPINNs: Physics-Informing Neural Networks Using Conventional Solvers for Partial Differential Equations](https://arxiv.org/abs/2601.17207)
 - [PUNCH: Physics-informed Uncertainty-aware Network for Coronary Hemodynamics](https://arxiv.org/abs/2601.17192)
 - [Learn and Verify: A Framework for Rigorous Verification of Physics-Informed Neural Networks](https://arxiv.org/abs/2601.19818)
+- [Physics-informed Blind Reconstruction of Dense Fields from Sparse Measurements using Neural Networks with a Differentiable Simulator](https://arxiv.org/abs/2601.20496)
+- [TINNs: Time-Induced Neural Networks for Solving Time-Dependent PDEs](https://arxiv.org/abs/2601.20361)
+- [HyResPINNs: A Hybrid Residual Physics-Informed Neural Network Architecture Designed to Balance Expressiveness and Trainability](https://arxiv.org/abs/2410.03573)
 
 
 ## Library
