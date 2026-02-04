@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 3, 2026 at 01:58:50 AM UTC
+February 4, 2026 at 01:53:29 AM UTC
 
 
 ## Theorem
 
-## Papers (550)
+## Papers (560)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -584,6 +584,16 @@ February 3, 2026 at 01:58:50 AM UTC
 - [HyResPINNs: A Hybrid Residual Physics-Informed Neural Network Architecture Designed to Balance Expressiveness and Trainability](https://arxiv.org/abs/2410.03573)
 - [Physics-Informed Neural Networks and Neural Operators for Parametric PDEs](https://arxiv.org/abs/2511.04576)
 - [Discovering Scaling Exponents with Physics-Informed Müntz-Szász Networks](https://arxiv.org/abs/2601.22751)
+- [Unsupervised Physics-Informed Operator Learning through Multi-Stage Curriculum Training](https://arxiv.org/abs/2602.02264)
+- [Putting machine learning to the test in a quantum many-body system](https://arxiv.org/abs/2602.01981)
+- [EquiNO: A Physics-Informed Neural Operator for Multiscale Simulations](https://arxiv.org/abs/2504.07976)
+- [PIMPC-GNN: Physics-Informed Multi-Phase Consensus Learning for Enhancing Imbalanced Node Classification in Graph Neural Networks](https://arxiv.org/abs/2602.01920)
+- [Conformal mapping based Physics-informed neural networks for designing neutral inclusions](https://arxiv.org/abs/2501.07809)
+- [Bayesian Parameter Estimation for Predictive Modeling of Illumination-Dependent Current-Voltage Curves](https://arxiv.org/abs/2602.01859)
+- [Scientific Machine Learning for Resilient EV-Grid Planning and Decision Support Under Extreme Events](https://arxiv.org/abs/2602.01261)
+- [Multi-Fidelity Physics-Informed Neural Networks with Bayesian Uncertainty Quantification and Adaptive Residual Learning for Efficient Solution of Parametric Partial Differential Equations](https://arxiv.org/abs/2602.01176)
+- [First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF_2_2](https://arxiv.org/abs/2602.00525)
+- [Prototype-based Explainable Neural Networks with Channel-specific Reasoning for Geospatial Learning Tasks](https://arxiv.org/abs/2602.00331)
 
 
 ## Library
