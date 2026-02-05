@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 4, 2026 at 01:53:29 AM UTC
+February 5, 2026 at 01:55:22 AM UTC
 
 
 ## Theorem
 
-## Papers (560)
+## Papers (562)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -594,6 +594,8 @@ February 4, 2026 at 01:53:29 AM UTC
 - [Multi-Fidelity Physics-Informed Neural Networks with Bayesian Uncertainty Quantification and Adaptive Residual Learning for Efficient Solution of Parametric Partial Differential Equations](https://arxiv.org/abs/2602.01176)
 - [First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF_2_2](https://arxiv.org/abs/2602.00525)
 - [Prototype-based Explainable Neural Networks with Channel-specific Reasoning for Geospatial Learning Tasks](https://arxiv.org/abs/2602.00331)
+- [Validating a Koopman-Quantum Hybrid Paradigm for Diagnostic Denoising of Fusion Devices](https://arxiv.org/abs/2602.03113)
+- [naPINN: Noise-Adaptive Physics-Informed Neural Networks for Recovering Physics from Corrupted Measurement](https://arxiv.org/abs/2602.02547)
 
 
 ## Library
