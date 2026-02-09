@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 8, 2026 at 02:24:37 AM UTC
+February 9, 2026 at 02:02:00 AM UTC
 
 
 ## Theorem
 
-## Papers (568)
+## Papers (572)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -602,6 +602,10 @@ February 8, 2026 at 02:24:37 AM UTC
 - [Coupled Integral PINN for Discontinuity](https://arxiv.org/abs/2411.11276)
 - [Visualizing the loss landscapes of physics-informed neural networks](https://arxiv.org/abs/2602.05849)
 - [Neuro-Inspired Visual Pattern Recognition via Biological Reservoir Computing](https://arxiv.org/abs/2602.05737)
+- [A Cycle-Consistent Graph Surrogate for Full-Cycle Left Ventricular Myocardial Biomechanics](https://arxiv.org/abs/2602.06884)
+- [Physics-informed extreme learning machine for Terzaghi consolidation problems and interpretation of coefficient of consolidation based on CPTu data](https://arxiv.org/abs/2506.08381)
+- [A Demonstration of a Neural Network as a Bridge Between Galaxy Simulations and Surveys](https://arxiv.org/abs/2602.06492)
+- [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://arxiv.org/abs/2505.18647)
 
 
 ## Library
