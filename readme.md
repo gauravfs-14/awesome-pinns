@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 9, 2026 at 02:02:00 AM UTC
+February 10, 2026 at 02:11:49 AM UTC
 
 
 ## Theorem
 
-## Papers (572)
+## Papers (578)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -606,6 +606,12 @@ February 9, 2026 at 02:02:00 AM UTC
 - [Physics-informed extreme learning machine for Terzaghi consolidation problems and interpretation of coefficient of consolidation based on CPTu data](https://arxiv.org/abs/2506.08381)
 - [A Demonstration of a Neural Network as a Bridge Between Galaxy Simulations and Surveys](https://arxiv.org/abs/2602.06492)
 - [STFlow: Data-Coupled Flow Matching for Geometric Trajectory Simulation](https://arxiv.org/abs/2505.18647)
+- [ODELoRA: Training Low-Rank Adaptation by Solving Ordinary Differential Equations](https://arxiv.org/abs/2602.07479)
+- [FEM-Informed Hypergraph Neural Networks for Efficient Elastoplasticity](https://arxiv.org/abs/2602.07364)
+- [Scalable Back-Propagation-Free Training of Optical Physics-Informed Neural Networks](https://arxiv.org/abs/2502.12384)
+- [Modeling Batch Crystallization under Uncertainty Using Physics-informed Machine Learning](https://arxiv.org/abs/2602.07184)
+- [Lagged backward-compatible physics-informed neural networks for unsaturated soil consolidation analysis](https://arxiv.org/abs/2602.07031)
+- [Curriculum-Learned Vanishing Stacked Residual PINNs for Hyperbolic PDE State Reconstruction](https://arxiv.org/abs/2602.06996)
 
 
 ## Library
