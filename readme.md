@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 11, 2026 at 02:07:58 AM UTC
+February 12, 2026 at 02:02:21 AM UTC
 
 
 ## Theorem
 
-## Papers (582)
+## Papers (586)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -616,6 +616,10 @@ February 11, 2026 at 02:07:58 AM UTC
 - [Solving PDEs With Deep Neural Nets under General Boundary Conditions](https://arxiv.org/abs/2512.15771)
 - [Do physics-informed neural networks (PINNs) need to be deep? Shallow PINNs using the Levenberg-Marquardt algorithm](https://arxiv.org/abs/2602.08515)
 - [Radial Müntz-Szász Networks: Neural Architectures with Learnable Power Bases for Multidimensional Singularities](https://arxiv.org/abs/2602.08419)
+- [On the Role of Consistency Between Physics and Data in Physics-Informed Neural Networks](https://arxiv.org/abs/2602.10611)
+- [Solving PDEs in One Shot via Fourier Features with Exact Analytical Derivatives](https://arxiv.org/abs/2602.10541)
+- [Supervised Metric Regularization Through Alternating Optimization for Multi-Regime Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09980)
+- [Drug Release Modeling using Physics-Informed Neural Networks](https://arxiv.org/abs/2602.09963)
 
 
 ## Library
