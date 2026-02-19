@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 17, 2026 at 01:57:18 AM UTC
+February 19, 2026 at 01:59:44 AM UTC
 
 
 ## Theorem
 
-## Papers (589)
+## Papers (598)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -623,6 +623,15 @@ February 17, 2026 at 01:57:18 AM UTC
 - [Unlearnable phases of matter](https://arxiv.org/abs/2602.11262)
 - [Statistical Learning Analysis of Physics-Informed Neural Networks](https://arxiv.org/abs/2602.11097)
 - [Addressing the ground state of the deuteron by physics-informed neural networks](https://arxiv.org/abs/2602.11193)
+- [Morephy-Net: An Evolutionary Multi-objective Optimization for Replica-Exchange-based Physics-informed Neural Operator Learning Networks](https://arxiv.org/abs/2509.00663)
+- [Randomness and signal propagation in physics-informed neural networks (PINNs): A neural PDE perspective](https://arxiv.org/abs/2509.18131)
+- [Gradient Networks for Universal Magnetic Modeling of Synchronous Machines](https://arxiv.org/abs/2602.14947)
+- [Pseudo-differential-enhanced physics-informed neural networks](https://arxiv.org/abs/2602.14663)
+- [Quantum-Assisted Trainable-Embedding Physics-Informed Neural Networks for Parabolic PDEs](https://arxiv.org/abs/2602.14596)
+- [Geometry-Aware Physics-Informed PointNets for Modeling Flows Across Porous Structures](https://arxiv.org/abs/2602.14108)
+- [A Unified Physics-Informed Neural Network for Modeling Coupled Electro- and Elastodynamic Wave Propagation Using Three-Stage Loss Optimization](https://arxiv.org/abs/2602.13811)
+- [A Unified Benchmark of Physics-Informed Neural Networks and Kolmogorov-Arnold Networks for Ordinary and Partial Differential Equations](https://arxiv.org/abs/2602.15068)
+- [Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723)
 
 
 ## Library
