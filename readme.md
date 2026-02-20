@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 19, 2026 at 01:59:44 AM UTC
+February 20, 2026 at 01:55:14 AM UTC
 
 
 ## Theorem
 
-## Papers (598)
+## Papers (606)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -632,6 +632,14 @@ February 19, 2026 at 01:59:44 AM UTC
 - [A Unified Physics-Informed Neural Network for Modeling Coupled Electro- and Elastodynamic Wave Propagation Using Three-Stage Loss Optimization](https://arxiv.org/abs/2602.13811)
 - [A Unified Benchmark of Physics-Informed Neural Networks and Kolmogorov-Arnold Networks for Ordinary and Partial Differential Equations](https://arxiv.org/abs/2602.15068)
 - [Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723)
+- [Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks](https://arxiv.org/abs/2602.16656)
+- [FEKAN: Feature-Enriched Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.16530)
+- [Optical Inversion and Spectral Unmixing of Spectroscopic Photoacoustic Images with Physics-Informed Neural Networks](https://arxiv.org/abs/2602.16357)
+- [Rethinking Input Domains in Physics-Informed Neural Networks via Geometric Compactification Mappings](https://arxiv.org/abs/2602.16193)
+- [Muon with Spectral Guidance: Efficient Optimization for Scientific Machine Learning](https://arxiv.org/abs/2602.16167)
+- [Discovering Unknown Inverter Governing Equations via Physics-Informed Sparse Machine Learning](https://arxiv.org/abs/2602.16166)
+- [Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000)
+- [Distributed physics-informed neural networks via domain decomposition for fast flow reconstruction](https://arxiv.org/abs/2602.15883)
 
 
 ## Library
