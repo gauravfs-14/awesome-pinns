@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 23, 2026 at 02:00:01 AM UTC
+February 24, 2026 at 01:56:40 AM UTC
 
 
 ## Theorem
 
-## Papers (608)
+## Papers (615)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -642,6 +642,13 @@ February 23, 2026 at 02:00:01 AM UTC
 - [Distributed physics-informed neural networks via domain decomposition for fast flow reconstruction](https://arxiv.org/abs/2602.15883)
 - [C3NN-SBI: Learning Hierarchies of NN-Point Statistics from Cosmological Fields with Physics-Informed Neural Networks](https://arxiv.org/abs/2602.16768)
 - [Machine Learning Argument of Latitude Error Model for LEO Satellite Orbit and Covariance Correction](https://arxiv.org/abs/2602.16764)
+- [Scientific Knowledge-Guided Machine Learning for Vessel Power Prediction: A Comparative Study](https://arxiv.org/abs/2602.18403)
+- [Physics-informed graph neural networks for flow field estimation in carotid arteries](https://arxiv.org/abs/2408.07110)
+- [Physics-Informed Neural Networks vs. Physics Models for Non-Invasive Glucose Monitoring: A Comparative Study Under Noise-Stressed Synthetic Conditions](https://arxiv.org/abs/2509.12253)
+- [Parameter-Efficient Domain Adaptation of Physics-Informed Self-Attention based GNNs for AC Power Flow Prediction](https://arxiv.org/abs/2602.18227)
+- [Deepmechanics](https://arxiv.org/abs/2602.18060)
+- [Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors](https://arxiv.org/abs/2602.17783)
+- [Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models](https://arxiv.org/abs/2602.17750)
 
 
 ## Library
