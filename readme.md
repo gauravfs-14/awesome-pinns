@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-February 24, 2026 at 01:56:40 AM UTC
+February 25, 2026 at 01:59:11 AM UTC
 
 
 ## Theorem
 
-## Papers (615)
+## Papers (620)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -649,6 +649,11 @@ February 24, 2026 at 01:56:40 AM UTC
 - [Deepmechanics](https://arxiv.org/abs/2602.18060)
 - [Multi-material Multi-physics Topology Optimization with Physics-informed Gaussian Process Priors](https://arxiv.org/abs/2602.17783)
 - [Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models](https://arxiv.org/abs/2602.17750)
+- [Unlearning Noise in PINNs: A Selective Pruning Framework for PDE Inverse Problems](https://arxiv.org/abs/2602.19967)
+- [Scale-PINN: Learning Efficient Physics-Informed Neural Networks Through Sequential Correction](https://arxiv.org/abs/2602.19475)
+- [Spectral bias in physics-informed and operator learning: Analysis and mitigation guidelines](https://arxiv.org/abs/2602.19265)
+- [Deep Reinforcement Learning for Optimizing Energy Consumption in Smart Grid Systems](https://arxiv.org/abs/2602.18531)
+- [Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling](https://arxiv.org/abs/2602.18472)
 
 
 ## Library
