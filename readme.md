@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 3, 2026 at 01:59:13 AM UTC
+March 4, 2026 at 01:52:38 AM UTC
 
 
 ## Theorem
 
-## Papers (622)
+## Papers (630)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -656,6 +656,14 @@ March 3, 2026 at 01:59:13 AM UTC
 - [Physiologically Informed Deep Learning: A Multi-Scale Framework for Next-Generation PBPK Modeling](https://arxiv.org/abs/2602.18472)
 - [TorchLean: Formalizing Neural Networks in Lean](https://arxiv.org/abs/2602.22631)
 - [Solving stiff dark matter equations via Jacobian Normalization with Physics-Informed Neural Networks](https://arxiv.org/abs/2602.21988)
+- [Astral: training physics-informed neural networks with error majorants](https://arxiv.org/abs/2406.02645)
+- [Hybrid ROM-PINN Framework for Closure Modeling in Convection-Dominated Systems](https://arxiv.org/abs/2603.01998)
+- [Hard-constraint physics-residual networks enable robust extrapolation for hydrogen crossover prediction in PEM water electrolyzers](https://arxiv.org/abs/2511.05879)
+- [PhysFormer: A Physics-Embedded Generative Model for Physically Self-Consistent Spectral Synthesis](https://arxiv.org/abs/2603.01459)
+- [Tackling multiphysics problems via finite element-guided physics-informed operator learning](https://arxiv.org/abs/2603.01420)
+- [Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks](https://arxiv.org/abs/2412.18564)
+- [Wireless Power Control Based on Large Language Models](https://arxiv.org/abs/2603.00474)
+- [TENG-BC: Unified Time-Evolving Natural Gradient for Neural PDE Solvers with General Boundary Conditions](https://arxiv.org/abs/2603.00397)
 
 
 ## Library
