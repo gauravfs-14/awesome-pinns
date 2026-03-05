@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 4, 2026 at 01:52:38 AM UTC
+March 5, 2026 at 01:55:53 AM UTC
 
 
 ## Theorem
 
-## Papers (630)
+## Papers (634)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -664,6 +664,10 @@ March 4, 2026 at 01:52:38 AM UTC
 - [Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks](https://arxiv.org/abs/2412.18564)
 - [Wireless Power Control Based on Large Language Models](https://arxiv.org/abs/2603.00474)
 - [TENG-BC: Unified Time-Evolving Natural Gradient for Neural PDE Solvers with General Boundary Conditions](https://arxiv.org/abs/2603.00397)
+- [Physics-informed post-processing of stabilized finite element solutions for transient convection-dominated problems](https://arxiv.org/abs/2603.03259)
+- [Stabilized Adaptive Loss and Residual-Based Collocation for Physics-Informed Neural Networks](https://arxiv.org/abs/2603.03224)
+- [Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results](https://arxiv.org/abs/2603.02948)
+- [Physics-Informed Neural Networks with Architectural Physics Embedding for Large-Scale Wave Field Reconstruction](https://arxiv.org/abs/2603.02231)
 
 
 ## Library
