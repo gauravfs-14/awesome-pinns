@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 5, 2026 at 01:55:53 AM UTC
+March 7, 2026 at 01:48:48 AM UTC
 
 
 ## Theorem
 
-## Papers (634)
+## Papers (641)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -668,6 +668,13 @@ March 5, 2026 at 01:55:53 AM UTC
 - [Stabilized Adaptive Loss and Residual-Based Collocation for Physics-Informed Neural Networks](https://arxiv.org/abs/2603.03224)
 - [Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results](https://arxiv.org/abs/2603.02948)
 - [Physics-Informed Neural Networks with Architectural Physics Embedding for Large-Scale Wave Field Reconstruction](https://arxiv.org/abs/2603.02231)
+- [Machine Learning the Strong Disorder Renormalization Group Method for Disordered Quantum Spin Chains](https://arxiv.org/abs/2603.05164)
+- [A physics-informed U-Net-LSTM network for nonlinear structural response under seismic excitation](https://arxiv.org/abs/2511.21276)
+- [Improving the accuracy of physics-informed neural networks via last-layer retraining](https://arxiv.org/abs/2603.04672)
+- [Continuous Modal Logical Neural Networks: Modal Reasoning via Stochastic Accessibility](https://arxiv.org/abs/2603.04019)
+- [Non-Invasive Reconstruction of Cardiac Activation Dynamics Using Physics-Informed Neural Networks](https://arxiv.org/abs/2603.03832)
+- [BumpNet: A Sparse MLP Framework for Learning PDE Solutions](https://arxiv.org/abs/2512.17198)
+- [Physics Education under the Application of Artificial Intelligence: Bibliometric Analysis Based on Web of Science Core Library (2021-2025)](https://arxiv.org/abs/2603.03348)
 
 
 ## Library
