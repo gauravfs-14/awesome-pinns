@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 7, 2026 at 01:48:48 AM UTC
+March 9, 2026 at 01:58:21 AM UTC
 
 
 ## Theorem
 
-## Papers (641)
+## Papers (644)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -675,6 +675,9 @@ March 7, 2026 at 01:48:48 AM UTC
 - [Non-Invasive Reconstruction of Cardiac Activation Dynamics Using Physics-Informed Neural Networks](https://arxiv.org/abs/2603.03832)
 - [BumpNet: A Sparse MLP Framework for Learning PDE Solutions](https://arxiv.org/abs/2512.17198)
 - [Physics Education under the Application of Artificial Intelligence: Bibliometric Analysis Based on Web of Science Core Library (2021-2025)](https://arxiv.org/abs/2603.03348)
+- [U6G XL-MIMO Radiomap Prediction: Multi-Config Dataset and Beam Map Approach](https://arxiv.org/abs/2603.06401)
+- [Learning Where the Physics Is: Probabilistic Adaptive Sampling for Stiff PDEs](https://arxiv.org/abs/2603.06287)
+- [VEGA: Electric Vehicle Navigation Agent via Physics-Informed Neural Operator and Proximal Policy Optimization](https://arxiv.org/abs/2509.13386)
 
 
 ## Library
