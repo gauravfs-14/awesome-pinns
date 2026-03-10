@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 9, 2026 at 01:58:21 AM UTC
+March 10, 2026 at 01:50:52 AM UTC
 
 
 ## Theorem
 
-## Papers (644)
+## Papers (646)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -678,6 +678,8 @@ March 9, 2026 at 01:58:21 AM UTC
 - [U6G XL-MIMO Radiomap Prediction: Multi-Config Dataset and Beam Map Approach](https://arxiv.org/abs/2603.06401)
 - [Learning Where the Physics Is: Probabilistic Adaptive Sampling for Stiff PDEs](https://arxiv.org/abs/2603.06287)
 - [VEGA: Electric Vehicle Navigation Agent via Physics-Informed Neural Operator and Proximal Policy Optimization](https://arxiv.org/abs/2509.13386)
+- [To What Extent Are Star Cluster Ages Encoded in Their Environments? Exploring the Spatial Distribution of Age-Related Information with PHANGS-HST Imaging and Convolutional Neural Networks](https://arxiv.org/abs/2603.07289)
+- [Diversity-Aware Adaptive Collocation for Physics-Informed Neural Networks via Sparse QUBO Optimization and Hybrid Coresets](https://arxiv.org/abs/2603.06761)
 
 
 ## Library
