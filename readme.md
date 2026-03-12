@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 11, 2026 at 01:50:49 AM UTC
+March 12, 2026 at 01:56:38 AM UTC
 
 
 ## Theorem
 
-## Papers (651)
+## Papers (653)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -685,6 +685,8 @@ March 11, 2026 at 01:50:49 AM UTC
 - [Enhanced Emittance Evaluation using 2D Transverse Phase Space Distributions, High Resolution Image Denoising, and Deep Learning](https://arxiv.org/abs/2603.08507)
 - [Meta-PINNs: Meta-Learning Enhanced Physics-Informed Machine Learning Framework for Turbomachinery Flow Predictions under Varying Operation Conditions](https://arxiv.org/abs/2603.07740)
 - [Robust Parameter and State Estimation in Multiscale Neuronal Systems Using Physics-Informed Neural Networks](https://arxiv.org/abs/2603.08742)
+- [Enhancing Brain Source Reconstruction by Initializing 3D Neural Networks with Physical Inverse Solutions](https://arxiv.org/abs/2411.00143)
+- [A neural operator for predicting vibration frequency response curves from limited data](https://arxiv.org/abs/2603.10149)
 
 
 ## Library
