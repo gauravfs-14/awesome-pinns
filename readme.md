@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 15, 2026 at 02:09:12 AM UTC
+March 16, 2026 at 02:10:35 AM UTC
 
 
 ## Theorem
 
-## Papers (654)
+## Papers (657)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -688,6 +688,9 @@ March 15, 2026 at 02:09:12 AM UTC
 - [Enhancing Brain Source Reconstruction by Initializing 3D Neural Networks with Physical Inverse Solutions](https://arxiv.org/abs/2411.00143)
 - [A neural operator for predicting vibration frequency response curves from limited data](https://arxiv.org/abs/2603.10149)
 - [Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation](https://arxiv.org/abs/2603.11045)
+- [Surrogates for Physics-based and Data-driven Modelling of Parametric Systems: Review and New Perspectives](https://arxiv.org/abs/2603.12870)
+- [Crack detection by holomorphic neural networks and transfer-learning-enhanced genetic optimization](https://arxiv.org/abs/2512.04947)
+- [Scaling Laws and Pathologies of Single-Layer PINNs: Network Width and PDE Nonlinearity](https://arxiv.org/abs/2603.12556)
 
 
 ## Library
