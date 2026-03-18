@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 17, 2026 at 01:57:48 AM UTC
+March 18, 2026 at 02:01:54 AM UTC
 
 
 ## Theorem
 
-## Papers (659)
+## Papers (665)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -693,6 +693,12 @@ March 17, 2026 at 01:57:48 AM UTC
 - [Scaling Laws and Pathologies of Single-Layer PINNs: Network Width and PDE Nonlinearity](https://arxiv.org/abs/2603.12556)
 - [Manifold-Orthogonal Dual-spectrum Extrapolation for Parameterized Physics-Informed Neural Networks](https://arxiv.org/abs/2603.13751)
 - [PolyMon: A Unified Framework for Polymer Property Prediction](https://arxiv.org/abs/2603.13303)
+- [Physics-Informed Neural Systems for the Simulation of EUV Electromagnetic Wave Diffraction from a Lithography Mask](https://arxiv.org/abs/2603.15584)
+- [Physics-informed neural networks for solving strong-field saddle-point equations in strong-field physics with tailored fields](https://arxiv.org/abs/2603.15786)
+- [Benchmarking Machine Learning Approaches for Polarization Mapping in Ferroelectrics Using 4D-STEM](https://arxiv.org/abs/2603.15582)
+- [Building Trust in PINNs: Error Estimation through Finite Difference Methods](https://arxiv.org/abs/2603.15526)
+- [PiGRAND: Physics-informed Graph Neural Diffusion for Intelligent Additive Manufacturing](https://arxiv.org/abs/2603.15194)
+- [The Evolution of Computer-Assisted Proof In Analysis](https://arxiv.org/abs/2603.15073)
 
 
 ## Library
