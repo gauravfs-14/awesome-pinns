@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 18, 2026 at 02:01:54 AM UTC
+March 19, 2026 at 02:02:43 AM UTC
 
 
 ## Theorem
 
-## Papers (665)
+## Papers (671)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -699,6 +699,12 @@ March 18, 2026 at 02:01:54 AM UTC
 - [Building Trust in PINNs: Error Estimation through Finite Difference Methods](https://arxiv.org/abs/2603.15526)
 - [PiGRAND: Physics-informed Graph Neural Diffusion for Intelligent Additive Manufacturing](https://arxiv.org/abs/2603.15194)
 - [The Evolution of Computer-Assisted Proof In Analysis](https://arxiv.org/abs/2603.15073)
+- [Verification and Validation of Physics-Informed Surrogate Component Models for Dynamic Power-System Simulation](https://arxiv.org/abs/2603.17836)
+- [DustNET: enabling machine learning and AI models of dusty plasmas](https://arxiv.org/abs/2603.17493)
+- [Rapid Neural Network Prediction of Linear Block Copolymer Free Energies](https://arxiv.org/abs/2603.17391)
+- [Physics-informed neural networks for solving saddle-point equations in strong-field physics with tailored fields](https://arxiv.org/abs/2603.15786)
+- [Minimum-Action Learning: Energy-Constrained Symbolic Model Selection for Physical Law Identification from Noisy Data](https://arxiv.org/abs/2603.16951)
+- [Gaussian Process Regression-based Knowledge Distillation Framework for Simultaneous Prediction of Physical and Mechanical Properties of Epoxy Polymers](https://arxiv.org/abs/2603.16925)
 
 
 ## Library
