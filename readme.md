@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 20, 2026 at 01:56:40 AM UTC
+March 21, 2026 at 01:50:53 AM UTC
 
 
 ## Theorem
 
-## Papers (676)
+## Papers (678)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -710,6 +710,8 @@ March 20, 2026 at 01:56:40 AM UTC
 - [Learning Transferable Friction Models and LuGre Identification Via Physics-Informed Neural Networks](https://arxiv.org/abs/2504.12441)
 - [A Family of Adaptive Activation Functions for Mitigating Failure Modes in Physics-Informed Neural Networks](https://arxiv.org/abs/2603.18328)
 - [Modeling Inverse Ellipsometry Problem via Flow Matching with a Large-Scale Dataset](https://arxiv.org/abs/2407.17869)
+- [Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees](https://arxiv.org/abs/2603.19165)
+- [D_4_4CNN\times\timesAnaCal: Physics-Informed Machine Learning for Accurate and Precise Weak Lensing Shear Estimation](https://arxiv.org/abs/2603.19046)
 
 
 ## Library
