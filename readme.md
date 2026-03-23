@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 22, 2026 at 02:02:47 AM UTC
+March 23, 2026 at 02:03:55 AM UTC
 
 
 ## Theorem
 
-## Papers (678)
+## Papers (681)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -712,6 +712,9 @@ March 22, 2026 at 02:02:47 AM UTC
 - [Modeling Inverse Ellipsometry Problem via Flow Matching with a Large-Scale Dataset](https://arxiv.org/abs/2407.17869)
 - [Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees](https://arxiv.org/abs/2603.19165)
 - [D_4_4CNN\times\timesAnaCal: Physics-Informed Machine Learning for Accurate and Precise Weak Lensing Shear Estimation](https://arxiv.org/abs/2603.19046)
+- [An Adaptive Machine Learning Framework for Fluid Flow in Dual-Network Porous Media](https://arxiv.org/abs/2603.19561)
+- [Verifiable Error Bounds for Physics-Informed Neural Network Solutions of Lyapunov and Hamilton-Jacobi-Bellman Equations](https://arxiv.org/abs/2603.19545)
+- [Mathematical Modeling of Cancer-Bacterial Therapy: Analysis and Numerical Simulation via Physics-Informed Neural Networks](https://arxiv.org/abs/2603.19326)
 
 
 ## Library
