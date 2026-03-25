@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 24, 2026 at 01:55:34 AM UTC
+March 25, 2026 at 02:01:19 AM UTC
 
 
 ## Theorem
 
-## Papers (681)
+## Papers (689)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -715,6 +715,14 @@ March 24, 2026 at 01:55:34 AM UTC
 - [An Adaptive Machine Learning Framework for Fluid Flow in Dual-Network Porous Media](https://arxiv.org/abs/2603.19561)
 - [Verifiable Error Bounds for Physics-Informed Neural Network Solutions of Lyapunov and Hamilton-Jacobi-Bellman Equations](https://arxiv.org/abs/2603.19545)
 - [Mathematical Modeling of Cancer-Bacterial Therapy: Analysis and Numerical Simulation via Physics-Informed Neural Networks](https://arxiv.org/abs/2603.19326)
+- [Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations](https://arxiv.org/abs/2603.23072)
+- [Artificial intelligence for partial differential equations in computational mechanics: A review](https://arxiv.org/abs/2410.19843)
+- [Double Coupling Architecture and Training Method for Optimization Problems of Differential Algebraic Equations with Parameters](https://arxiv.org/abs/2603.22724)
+- [Coordinate Encoding on Linear Grids for Physics-Informed Neural Networks](https://arxiv.org/abs/2603.22700)
+- [BOOST-RPF: Boosted Sequential Trees for Radial Power Flow](https://arxiv.org/abs/2603.21977)
+- [Many-body mobility edges in one dimension revealed by efficient and interpretable feature-based learning with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2603.21807)
+- [SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications](https://arxiv.org/abs/2603.21674)
+- [Stability and Bifurcation Analysis of Nonlinear PDEs via Random Projection-based PINNs: A Krylov-Arnoldi Approach](https://arxiv.org/abs/2603.21568)
 
 
 ## Library
