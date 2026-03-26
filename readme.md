@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 25, 2026 at 02:01:19 AM UTC
+March 26, 2026 at 02:07:29 AM UTC
 
 
 ## Theorem
 
-## Papers (689)
+## Papers (695)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -723,6 +723,12 @@ March 25, 2026 at 02:01:19 AM UTC
 - [Many-body mobility edges in one dimension revealed by efficient and interpretable feature-based learning with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2603.21807)
 - [SPINONet: Scalable Spiking Physics-informed Neural Operator for Computational Mechanics Applications](https://arxiv.org/abs/2603.21674)
 - [Stability and Bifurcation Analysis of Nonlinear PDEs via Random Projection-based PINNs: A Krylov-Arnoldi Approach](https://arxiv.org/abs/2603.21568)
+- [Deep Neural Networks as Discrete Dynamical Systems: Implications for Physics-Informed Learning](https://arxiv.org/abs/2601.00473)
+- [Stochastic Dimension-Free Zeroth-Order Estimator for High-Dimensional and High-Order PINNs](https://arxiv.org/abs/2603.24002)
+- [An efficient wavelet-based physics-informed neural network for multiscale problems](https://arxiv.org/abs/2409.11847)
+- [Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning](https://arxiv.org/abs/2603.23854)
+- [Resolving gradient pathology in physics-informed epidemiological models](https://arxiv.org/abs/2603.23799)
+- [Residual Attention Physics-Informed Neural Networks for Robust Multiphysics Simulation of Steady-State Electrothermal Energy Systems](https://arxiv.org/abs/2603.23578)
 
 
 ## Library
