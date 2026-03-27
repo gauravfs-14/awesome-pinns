@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 26, 2026 at 02:07:29 AM UTC
+March 27, 2026 at 02:08:37 AM UTC
 
 
 ## Theorem
 
-## Papers (695)
+## Papers (698)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -729,6 +729,9 @@ March 26, 2026 at 02:07:29 AM UTC
 - [Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning](https://arxiv.org/abs/2603.23854)
 - [Resolving gradient pathology in physics-informed epidemiological models](https://arxiv.org/abs/2603.23799)
 - [Residual Attention Physics-Informed Neural Networks for Robust Multiphysics Simulation of Steady-State Electrothermal Energy Systems](https://arxiv.org/abs/2603.23578)
+- [Physics-Informed Evolution: An Evolutionary Framework for Solving Quantum Control Problems Involving the Schrödinger Equation](https://arxiv.org/abs/2502.05228)
+- [Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions](https://arxiv.org/abs/2603.24644)
+- [How unconstrained machine-learning models learn physical symmetries](https://arxiv.org/abs/2603.24638)
 
 
 ## Library
