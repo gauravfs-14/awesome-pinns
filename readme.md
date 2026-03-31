@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 30, 2026 at 02:13:55 AM UTC
+March 31, 2026 at 02:09:04 AM UTC
 
 
 ## Theorem
 
-## Papers (698)
+## Papers (704)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -732,6 +732,12 @@ March 30, 2026 at 02:13:55 AM UTC
 - [Physics-Informed Evolution: An Evolutionary Framework for Solving Quantum Control Problems Involving the Schrödinger Equation](https://arxiv.org/abs/2502.05228)
 - [Physics-Informed Neural Network Digital Twin for Dynamic Tray-Wise Modeling of Distillation Columns under Transient Operating Conditions](https://arxiv.org/abs/2603.24644)
 - [How unconstrained machine-learning models learn physical symmetries](https://arxiv.org/abs/2603.24638)
+- [Physics-Informed Neural Networks for Predicting Hydrogen Sorption in Geological Formations: Thermodynamically Constrained Deep Learning Integrating Classical Adsorption Theory](https://arxiv.org/abs/2603.28328)
+- [Deflation-PINNs: Learning Multiple Solutions for PDEs and Landau-de Gennes](https://arxiv.org/abs/2603.27936)
+- [Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs](https://arxiv.org/abs/2603.27929)
+- [Improving ideal MHD equilibrium accuracy with physics-informed neural networks](https://arxiv.org/abs/2507.03119)
+- [Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model](https://arxiv.org/abs/2603.26921)
+- [A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks](https://arxiv.org/abs/2603.26803)
 
 
 ## Library
