@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-March 31, 2026 at 02:09:04 AM UTC
+April 1, 2026 at 02:26:12 AM UTC
 
 
 ## Theorem
 
-## Papers (704)
+## Papers (711)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -738,6 +738,13 @@ March 31, 2026 at 02:09:04 AM UTC
 - [Improving ideal MHD equilibrium accuracy with physics-informed neural networks](https://arxiv.org/abs/2507.03119)
 - [Comparing Physics-Informed and Neural ODE Approaches for Modeling Nonlinear Biological Systems: A Case Study Based on the Morris-Lecar Model](https://arxiv.org/abs/2603.26921)
 - [A Comparative Investigation of Thermodynamic Structure-Informed Neural Networks](https://arxiv.org/abs/2603.26803)
+- [Determining the NJL Coupling and AMM in Magnetized QCD Matter via Machine Learning](https://arxiv.org/abs/2603.29269)
+- [From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks](https://arxiv.org/abs/2603.29268)
+- [Lie Generator Networks for Nonlinear Partial Differential Equations](https://arxiv.org/abs/2603.29264)
+- [A Unified Weighted-Loss Physics-Informed Neural Network for Boundary Layer Problems in Singularly Perturbed PDEs](https://arxiv.org/abs/2603.29249)
+- [Biomimetic PINNs for Cell-Induced Phase Transitions: UQ-R3 Sampling with Causal Gating](https://arxiv.org/abs/2603.29184)
+- [From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning](https://arxiv.org/abs/2603.29033)
+- [ELM-FBPINNs: An Efficient Multilevel Random Feature Method](https://arxiv.org/abs/2409.01949)
 
 
 ## Library
