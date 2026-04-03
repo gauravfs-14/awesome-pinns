@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 2, 2026 at 02:05:20 AM UTC
+April 3, 2026 at 02:07:04 AM UTC
 
 
 ## Theorem
 
-## Papers (711)
+## Papers (714)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -745,6 +745,9 @@ April 2, 2026 at 02:05:20 AM UTC
 - [Biomimetic PINNs for Cell-Induced Phase Transitions: UQ-R3 Sampling with Causal Gating](https://arxiv.org/abs/2603.29184)
 - [From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning](https://arxiv.org/abs/2603.29033)
 - [ELM-FBPINNs: An Efficient Multilevel Random Feature Method](https://arxiv.org/abs/2409.01949)
+- [A Simultaneous Approach for Training Neural Differential-Algebraic Systems of Equations](https://arxiv.org/abs/2504.04665)
+- [Revisiting Conservativeness in Fluid Dynamics: Failure of Non-Conservative PINNs and a Path-Integral Remedy](https://arxiv.org/abs/2604.01968)
+- [Experimental Design for Missing Physics](https://arxiv.org/abs/2604.01231)
 
 
 ## Library
