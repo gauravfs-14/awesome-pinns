@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 6, 2026 at 02:22:26 AM UTC
+April 7, 2026 at 02:09:28 AM UTC
 
 
 ## Theorem
 
-## Papers (716)
+## Papers (721)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -750,6 +750,11 @@ April 6, 2026 at 02:22:26 AM UTC
 - [Experimental Design for Missing Physics](https://arxiv.org/abs/2604.01231)
 - [A Numerical Method for Coupling Parameterized Physics-Informed Neural Networks and FDM for Advanced Thermal-Hydraulic System Simulation](https://arxiv.org/abs/2604.02663)
 - [WGFINNs: Weak formulation-based GENERIC formalism informed neural networks'](https://arxiv.org/abs/2604.02601)
+- [PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods](https://arxiv.org/abs/2604.04920)
+- [Cyber-Physical Systems Security: A Comprehensive Review of Anomaly Detection Techniques](https://arxiv.org/abs/2502.13256)
+- [Machine-learning based flow field estimation using floating sensor locations](https://arxiv.org/abs/2311.08754)
+- [A Pedagogical Framework for Physics-Informed Machine Learning: From Classical Pendulum to Quantum Anharmonic Oscillator Using PyTorch on Modern GPU Hardware](https://arxiv.org/abs/2502.05621)
+- [General Explicit Network (GEN): A novel deep learning architecture for solving partial differential equations](https://arxiv.org/abs/2604.03321)
 
 
 ## Library
