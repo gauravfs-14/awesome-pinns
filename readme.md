@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 7, 2026 at 02:09:28 AM UTC
+April 8, 2026 at 02:10:21 AM UTC
 
 
 ## Theorem
 
-## Papers (721)
+## Papers (727)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -755,6 +755,12 @@ April 7, 2026 at 02:09:28 AM UTC
 - [Machine-learning based flow field estimation using floating sensor locations](https://arxiv.org/abs/2311.08754)
 - [A Pedagogical Framework for Physics-Informed Machine Learning: From Classical Pendulum to Quantum Anharmonic Oscillator Using PyTorch on Modern GPU Hardware](https://arxiv.org/abs/2502.05621)
 - [General Explicit Network (GEN): A novel deep learning architecture for solving partial differential equations](https://arxiv.org/abs/2604.03321)
+- [Quantum Machine Learning for particle scattering entanglement classification](https://arxiv.org/abs/2604.05986)
+- [WGFINNs: Weak formulation-based GENERIC formalism informed neural networks](https://arxiv.org/abs/2604.02601)
+- [Multiscale Physics-Informed Neural Network for Complex Fluid Flows with Long-Range Dependencies](https://arxiv.org/abs/2604.05652)
+- [Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000)
+- [Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks](https://arxiv.org/abs/2604.05230)
+- [A Theory-guided Weighted L^2L^2 Loss for solving the BGK model via Physics-informed neural networks](https://arxiv.org/abs/2604.04971)
 
 
 ## Library
