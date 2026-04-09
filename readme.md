@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 8, 2026 at 02:10:21 AM UTC
+April 9, 2026 at 02:04:15 AM UTC
 
 
 ## Theorem
 
-## Papers (727)
+## Papers (728)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -761,6 +761,7 @@ April 8, 2026 at 02:10:21 AM UTC
 - [Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine Learning, and Physics-Informed Methods](https://arxiv.org/abs/2602.16000)
 - [Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks](https://arxiv.org/abs/2604.05230)
 - [A Theory-guided Weighted L^2L^2 Loss for solving the BGK model via Physics-informed neural networks](https://arxiv.org/abs/2604.04971)
+- [A Texture-Generalizable Deep Material Network via Orientation-Aware Interaction Learning for Polycrystal Modeling and Texture Evolution](https://arxiv.org/abs/2512.06779)
 
 
 ## Library
