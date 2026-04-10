@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 9, 2026 at 02:04:15 AM UTC
+April 10, 2026 at 02:23:55 AM UTC
 
 
 ## Theorem
 
-## Papers (728)
+## Papers (732)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -762,6 +762,10 @@ April 9, 2026 at 02:04:15 AM UTC
 - [Curvature-Aware Optimization for High-Accuracy Physics-Informed Neural Networks](https://arxiv.org/abs/2604.05230)
 - [A Theory-guided Weighted L^2L^2 Loss for solving the BGK model via Physics-informed neural networks](https://arxiv.org/abs/2604.04971)
 - [A Texture-Generalizable Deep Material Network via Orientation-Aware Interaction Learning for Polycrystal Modeling and Texture Evolution](https://arxiv.org/abs/2512.06779)
+- [Biomimetic causal learning for microstructure-forming phase transitions](https://arxiv.org/abs/2603.29184)
+- [Physics-Informed Neural Networks for Joint Source and Parameter Estimation in Advection-Diffusion Equations](https://arxiv.org/abs/2512.07755)
+- [Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction](https://arxiv.org/abs/2604.07781)
+- [Flow Learners for PDEs: Toward a Physics-to-Physics Paradigm for Scientific Computing](https://arxiv.org/abs/2604.07366)
 
 
 ## Library
