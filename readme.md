@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 15, 2026 at 02:13:29 AM UTC
+April 16, 2026 at 02:29:25 AM UTC
 
 
 ## Theorem
 
-## Papers (739)
+## Papers (746)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -773,6 +773,13 @@ April 15, 2026 at 02:13:29 AM UTC
 - [Battery health prognosis using Physics-informed neural network with Quantum Feature mapping](https://arxiv.org/abs/2604.10362)
 - [Fatigue-PINN: Physics-Informed Fatigue-Driven Motion Modulation and Synthesis](https://arxiv.org/abs/2502.19056)
 - [Knowledge Integration in Differentiable Models: A Comparative Study of Data-Driven, Soft-Constrained, and Hard-Constrained Paradigms for Identification and Control of the Single Machine Infinite Bus System](https://arxiv.org/abs/2602.09667)
+- [Physics-Informed Neural Networks for Methane Sorption: Cross-Gas Transfer Learning, Ensemble Collapse Under Physics Constraints, and Monte Carlo Dropout Uncertainty Quantification](https://arxiv.org/abs/2604.13992)
+- [Hardware-Efficient Neuro-Symbolic Networks with the Exp-Minus-Log Operator](https://arxiv.org/abs/2604.13871)
+- [Randomized Neural Networks for Integro-Differential Equations with Application to Neutron Transport](https://arxiv.org/abs/2604.13830)
+- [Physics-Informed Neural Networks for Solving Derivative-Constrained PDEs](https://arxiv.org/abs/2604.13723)
+- [Outperforming Self-Attention Mechanisms in Solar Irradiance Forecasting via Physics-Guided Neural Networks](https://arxiv.org/abs/2604.13455)
+- [Physics-informed reservoir characterization from bulk and extreme pressure events with a differentiable simulator](https://arxiv.org/abs/2604.13291)
+- [Depth-Resolved Coral Reef Thermal Fields from Satellite SST and Sparse In-Situ Loggers Using Physics-Informed Neural Networks](https://arxiv.org/abs/2604.13131)
 
 
 ## Library
