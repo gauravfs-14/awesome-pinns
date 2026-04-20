@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 19, 2026 at 02:29:48 AM UTC
+April 20, 2026 at 02:30:26 AM UTC
 
 
 ## Theorem
 
-## Papers (749)
+## Papers (753)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -783,6 +783,10 @@ April 19, 2026 at 02:29:48 AM UTC
 - [SOLIS: Physics-Informed Learning of Interpretable Neural Surrogates for Nonlinear Systems](https://arxiv.org/abs/2604.14879)
 - [Physics-Informed Machine Learning for Pouch Cell Temperature Estimation](https://arxiv.org/abs/2604.14566)
 - [Auxiliary Finite-Difference Residual-Gradient Regularization for PINNs](https://arxiv.org/abs/2604.14472)
+- [Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks](https://arxiv.org/abs/2604.15714)
+- [PINNACLE: An Open-Source Computational Framework for Classical and Quantum PINNs](https://arxiv.org/abs/2604.15645)
+- [Python library supporting Discrete Variational Formulations and training solutions with Collocation-based Robust Variational Physics Informed Neural Networks (DVF-CRVPINN)](https://arxiv.org/abs/2604.15398)
+- [Lightweight Geometric Adaptation for Training Physics-Informed Neural Networks](https://arxiv.org/abs/2604.15392)
 
 
 ## Library
