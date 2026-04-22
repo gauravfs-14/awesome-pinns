@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 21, 2026 at 02:26:40 AM UTC
+April 22, 2026 at 02:24:34 AM UTC
 
 
 ## Theorem
 
-## Papers (756)
+## Papers (761)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -790,6 +790,11 @@ April 21, 2026 at 02:26:40 AM UTC
 - [Uncertainty Quantification in PINNs for Turbulent Flows: Bayesian Inference and Repulsive Ensembles](https://arxiv.org/abs/2604.17156)
 - [Hybrid Multi-Dimensional MRI Prostate Cancer Detection via Hadamard Network-Based Bias Correction and Residual Networks](https://arxiv.org/abs/2604.17107)
 - [Singularity Formation: Synergy in Theoretical, Numerical and Machine Learning Approaches](https://arxiv.org/abs/2604.16842)
+- [Towards Generalization of Graph Neural Networks for AC Optimal Power Flow](https://arxiv.org/abs/2510.06860)
+- [Benchmarking Physics-Informed Neural Networks and Boundary Elements Methods for Wave Scattering](https://arxiv.org/abs/2509.12483)
+- [Physics-Informed Neural Networks for Biological 2\mathrm{D}{+}t2\mathrm{D}{+}t Reaction-Diffusion Systems](https://arxiv.org/abs/2604.18548)
+- [Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481)
+- [Dissipative Latent Residual Physics-Informed Neural Networks for Modeling and Identification of Electromechanical Systems](https://arxiv.org/abs/2604.18277)
 
 
 ## Library
