@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 23, 2026 at 02:27:53 AM UTC
+April 24, 2026 at 02:28:39 AM UTC
 
 
 ## Theorem
 
-## Papers (761)
+## Papers (764)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -795,6 +795,9 @@ April 23, 2026 at 02:27:53 AM UTC
 - [Physics-Informed Neural Networks for Biological 2\mathrm{D}{+}t2\mathrm{D}{+}t Reaction-Diffusion Systems](https://arxiv.org/abs/2604.18548)
 - [Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle](https://arxiv.org/abs/2604.18481)
 - [Dissipative Latent Residual Physics-Informed Neural Networks for Modeling and Identification of Electromechanical Systems](https://arxiv.org/abs/2604.18277)
+- [Analytical and Machine Learning Methods for Model Discernment at CEννNS Experiments](https://arxiv.org/abs/2604.21869)
+- [Transferable Physics-Informed Representations via Closed-Form Head Adaptation](https://arxiv.org/abs/2604.21761)
+- [A Green-Integral-Constrained Neural Solver with Stochastic Physics-Informed Regularization](https://arxiv.org/abs/2604.21411)
 
 
 ## Library
