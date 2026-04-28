@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-April 26, 2026 at 02:33:13 AM UTC
+April 28, 2026 at 02:42:45 AM UTC
 
 
 ## Theorem
 
-## Papers (764)
+## Papers (771)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -798,6 +798,13 @@ April 26, 2026 at 02:33:13 AM UTC
 - [Analytical and Machine Learning Methods for Model Discernment at CEννNS Experiments](https://arxiv.org/abs/2604.21869)
 - [Transferable Physics-Informed Representations via Closed-Form Head Adaptation](https://arxiv.org/abs/2604.21761)
 - [A Green-Integral-Constrained Neural Solver with Stochastic Physics-Informed Regularization](https://arxiv.org/abs/2604.21411)
+- [Multi-scale Dynamic Wake Modeling of Floating Offshore Wind Turbines via Fourier Neural Operators and Physics-Informed Neural Networks](https://arxiv.org/abs/2604.23937)
+- [Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System](https://arxiv.org/abs/2604.23743)
+- [When PINNs Go Wrong: Pseudo-Time Stepping Against Spurious Solutions](https://arxiv.org/abs/2604.23528)
+- [Advantages of Broadband Metalenses for Generalizable Image Classification](https://arxiv.org/abs/2512.08109)
+- [Collocation-based Robust Physics Informed Neural Networks for time-dependent simulations of pollution propagation under thermal inversion conditions on Spitsbergen](https://arxiv.org/abs/2604.23003)
+- [Computational Control of Nonlinear Partial Differential Equations Using Machine Learning](https://arxiv.org/abs/2604.22414)
+- [Physics-Informed Neural Networks for Solving Two-Flavor Neutrino Oscillations in Vacuum and Matter Environments for Atmospheric and Reactor Neutrinos](https://arxiv.org/abs/2604.22862)
 
 
 ## Library
