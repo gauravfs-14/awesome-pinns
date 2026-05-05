@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 4, 2026 at 02:39:59 AM UTC
+May 5, 2026 at 02:33:50 AM UTC
 
 
 ## Theorem
 
-## Papers (778)
+## Papers (785)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -812,6 +812,13 @@ May 4, 2026 at 02:39:59 AM UTC
 - [An adaptive wavelet-based PINN for problems with localized high-magnitude source](https://arxiv.org/abs/2604.28180)
 - [An approach to encode divergence-free stress fields in neural approximations based on stress potentials](https://arxiv.org/abs/2605.00509)
 - [PILIR: Physics-Informed Local Implicit Representation](https://arxiv.org/abs/2605.00385)
+- [TRACED: In vivo imaging of extracellular intrinsic diffusivity, tortuosity, cell size distribution and cell density in human glioma patients](https://arxiv.org/abs/2605.02615)
+- [Physics-Informed Neural Learning for State Reconstruction and Parameter Identification in Coupled Greenhouse Climate Dynamics](https://arxiv.org/abs/2605.02524)
+- [Cell-induced densification and tether formation in fibrous extracellular matrices with biomimetic physics-informed neural networks](https://arxiv.org/abs/2603.29184)
+- [Geometric Quantum Physics Informed Neural Network](https://arxiv.org/abs/2605.02352)
+- [Variational Matrix-Learning Fourier Networks for Parametric Multiphysics Surrogates](https://arxiv.org/abs/2605.02280)
+- [Constructing Inverse Potentials from Scattering Phase Shifts using Physics-Informed Neural Networks: Application to Neutron-Alpha Scattering](https://arxiv.org/abs/2605.02264)
+- [Chebyshev-Augmented One-Shot Transfer Learning for PINNs on Nonlinear Differential Equations](https://arxiv.org/abs/2605.01634)
 
 
 ## Library
