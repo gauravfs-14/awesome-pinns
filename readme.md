@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 5, 2026 at 02:33:50 AM UTC
+May 6, 2026 at 02:38:07 AM UTC
 
 
 ## Theorem
 
-## Papers (785)
+## Papers (790)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -819,6 +819,11 @@ May 5, 2026 at 02:33:50 AM UTC
 - [Variational Matrix-Learning Fourier Networks for Parametric Multiphysics Surrogates](https://arxiv.org/abs/2605.02280)
 - [Constructing Inverse Potentials from Scattering Phase Shifts using Physics-Informed Neural Networks: Application to Neutron-Alpha Scattering](https://arxiv.org/abs/2605.02264)
 - [Chebyshev-Augmented One-Shot Transfer Learning for PINNs on Nonlinear Differential Equations](https://arxiv.org/abs/2605.01634)
+- [Random test functions, H^{-1}H^{-1} norm equivalence, and stochastic variational physics-informed neural networks](https://arxiv.org/abs/2605.03542)
+- [Meta-Inverse Physics-Informed Neural Networks for High-Dimensional Ordinary Differential Equations](https://arxiv.org/abs/2605.03511)
+- [Local Truncation Error-Guided Neural ODEs for Large Scale Traffic Forecasting](https://arxiv.org/abs/2605.03386)
+- [Information in Many-body Eigenstates: A Question of Learnability](https://arxiv.org/abs/2605.03043)
+- [Predicting Euler Characteristics and Constructing Topological Structure Using Machine Learning Techniques](https://arxiv.org/abs/2605.02947)
 
 
 ## Library
