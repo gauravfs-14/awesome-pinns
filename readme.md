@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 6, 2026 at 02:38:07 AM UTC
+May 7, 2026 at 02:40:03 AM UTC
 
 
 ## Theorem
 
-## Papers (790)
+## Papers (792)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -824,6 +824,8 @@ May 6, 2026 at 02:38:07 AM UTC
 - [Local Truncation Error-Guided Neural ODEs for Large Scale Traffic Forecasting](https://arxiv.org/abs/2605.03386)
 - [Information in Many-body Eigenstates: A Question of Learnability](https://arxiv.org/abs/2605.03043)
 - [Predicting Euler Characteristics and Constructing Topological Structure Using Machine Learning Techniques](https://arxiv.org/abs/2605.02947)
+- [Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems](https://arxiv.org/abs/2605.04708)
+- [Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs](https://arxiv.org/abs/2605.04502)
 
 
 ## Library
