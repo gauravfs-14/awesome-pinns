@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 7, 2026 at 02:50:44 AM UTC
+September 9, 2026 at 03:01:27 AM UTC
 
 
 ## Theorem
 
-## Papers (1048)
+## Papers (1057)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1082,6 +1082,15 @@ September 7, 2026 at 02:50:44 AM UTC
 - [Linearized subspace refinement framework to expose hidden accuracy in trained neural networks](https://arxiv.org/abs/2601.13989)
 - [Observation-Aligned Two-Stage Domain Decomposition for Physics-Informed Traffic State Estimation with Sparse Fixed Sensors](https://arxiv.org/abs/2605.08028)
 - [Physics-Informed Neural Network Surrogate for Oxygen Vacancy Dynamics in epitaxial \mathrm{SrTiO_3}\mathrm{SrTiO_3} on Si memristors via Dynamic Spectral Optimization](https://arxiv.org/abs/2609.02966)
+- [Beyond Residuals: Energy based solutions of partial differential equations using scientific machine learning](https://arxiv.org/abs/2609.08239)
+- [Solving the Elastic Wave Equation with Physics-Informed Neural Networks: A Robust and Critical Assessment](https://arxiv.org/abs/2609.07983)
+- [Latent-MoE: Domain-Aware Mixture-of-Experts for PDEs with Multi-Regime Physics](https://arxiv.org/abs/2609.07814)
+- [A Systematic Analysis of Automatic Differentiation versus Discretization-based Constraints for Physics-Informed PDE Solvers](https://arxiv.org/abs/2609.07437)
+- [Learning Without Adversarial Training: A Physics-Informed Neural Network for Secure Power System State Estimation under False Data Injection Attacks](https://arxiv.org/abs/2604.22784)
+- [PhysSAE: Mechanistic Interpretability with Sparse Autoencoders](https://arxiv.org/abs/2609.07061)
+- [In situ local learning of dynamic network materials](https://arxiv.org/abs/2609.05977)
+- [Gaussian Linear Functional Manifold Method for Massive Point Cloud Data](https://arxiv.org/abs/2609.05744)
+- [Physics-Informed Neural Networks for Depth-Averaged Granular Avalanche Dynamics on Curved Topography](https://arxiv.org/abs/2609.05542)
 
 
 ## Library
