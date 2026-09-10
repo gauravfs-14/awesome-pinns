@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 9, 2026 at 03:01:27 AM UTC
+September 10, 2026 at 03:03:12 AM UTC
 
 
 ## Theorem
 
-## Papers (1057)
+## Papers (1058)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1091,6 +1091,7 @@ September 9, 2026 at 03:01:27 AM UTC
 - [In situ local learning of dynamic network materials](https://arxiv.org/abs/2609.05977)
 - [Gaussian Linear Functional Manifold Method for Massive Point Cloud Data](https://arxiv.org/abs/2609.05744)
 - [Physics-Informed Neural Networks for Depth-Averaged Granular Avalanche Dynamics on Curved Topography](https://arxiv.org/abs/2609.05542)
+- [Development and Validation of a Physics-Guided Machine Learning Extrapolation Framework Using a Classical Transient Diffusion Benchmark](https://arxiv.org/abs/2609.09912)
 
 
 ## Library
